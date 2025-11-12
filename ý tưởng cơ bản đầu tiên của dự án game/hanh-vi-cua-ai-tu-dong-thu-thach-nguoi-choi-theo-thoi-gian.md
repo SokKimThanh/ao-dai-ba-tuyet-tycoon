@@ -1,0 +1,54 @@
+﻿tiáº¿p theo lÃ  xÃ¢y dá»±ng cÃ¡c hÃ nh vi chá»c phÃ¡ cá»§a Ä‘á»‘i thá»§ ( do ai tá»± Ä‘á»™ng xÃ©t bá»Ÿi kháº£ nÄƒng tÃ­ch lÅ©y cá»§a ngÆ°á»i chÆ¡i theo tá»«ng má»‘c Ä‘Ã£ Ä‘áº¡t thÃ nh tá»±u sáº½ Ä‘Æ°a ra tá»± Ä‘á»™ng cÃ¡c hÃ nh vi má»›i do nhÃ  phÃ¡t triá»ƒn cung cáº¥p thÃªm sau nÃ y) gá»“m cÃ³: hÃ nh vi báº¯t chÆ°á»›c cÃ¡ch bÃ¡n sáº£n pháº©m mÃ  bÃ  chá»§ Ä‘Ã£ bÃ¡n cháº¡y. cÃ¡ch bÃ i trÃ­ cá»­a tiá»‡m, cÃ¡c váº­t dá»¥ng, biá»ƒn hiá»‡u. ðŸŽ® Ã tÆ°á»Ÿng sÃ¡ng táº¡o: CÃ¡ch Ä‘á»‘i thá»§ khiáº¿n ngÆ°á»i chÆ¡i thua báº±ng cÃ¡ch lÃ m bÃ  chá»§ ná»•i Ä‘iÃªn Bá»‘i cáº£nh game: NgÆ°á»i chÆ¡i lÃ  nhÃ¢n viÃªn trong má»™t quÃ¡n Äƒn, pháº£i hoÃ n thÃ nh nhiá»‡m vá»¥ phá»¥c vá»¥ khÃ¡ch, giá»¯ cho bÃ  chá»§ bÃ¬nh tÄ©nh vÃ  hÃ i lÃ²ng. ChiÃªu trÃ² cá»§a Ä‘á»‘i thá»§: Gá»­i khÃ¡ch giáº£ Ä‘áº¿n quÃ¡n, cá»‘ tÃ¬nh gÃ¢y rá»‘i, chÃª bai mÃ³n Äƒn, lÃ m cháº­m tiáº¿n Ä‘á»™. Gá»i Ä‘iá»‡n thoáº¡i liÃªn tá»¥c Ä‘á»ƒ khiÃªu khÃ­ch bÃ  chá»§, dÃ¹ng lá»i láº½ má»‰a mai khiáº¿n bÃ  ná»•i giáº­n. PhÃ¡t tÃ¡n tin Ä‘á»“n trÃªn máº¡ng xÃ£ há»™i vá» quÃ¡n, khiáº¿n bÃ  chá»§ máº¥t kiá»ƒm soÃ¡t cáº£m xÃºc. GÃ i báº«y nhÃ¢n viÃªn (ngÆ°á»i chÆ¡i) báº±ng cÃ¡ch giáº£ vá» lÃ  khÃ¡ch VIP rá»“i chÃª bai Ä‘á»ƒ bÃ  chá»§ máº¥t bÃ¬nh tÄ©nh vÃ  la máº¯ng nhÃ¢n viÃªn. Káº¿t quáº£: Khi bÃ  chá»§ ná»•i Ä‘iÃªn, ngÆ°á»i chÆ¡i bá»‹ trá»« Ä‘iá»ƒm, máº¥t lÆ°á»£t hoáº·c bá»‹ Ä‘uá»•i viá»‡c â€“ dáº«n Ä‘áº¿n thua cuá»™c.
+
+ðŸ§  CÆ¡ cháº¿ tá»± Ä‘á»™ng hÃ³a hÃ nh vi Ä‘á»‘i thá»§
+Má»—i khi ngÆ°á»i chÆ¡i Ä‘áº¡t má»™t má»‘c thÃ nh tá»±u (vÃ­ dá»¥: doanh thu, sá»‘ lÆ°á»£t phá»¥c vá»¥, Ä‘Ã¡nh giÃ¡ 5 saoâ€¦), há»‡ thá»‘ng AI sáº½ má»Ÿ khÃ³a hÃ nh vi má»›i cá»§a Ä‘á»‘i thá»§.
+
+CÃ¡c hÃ nh vi nÃ y Ä‘Æ°á»£c nhÃ  phÃ¡t triá»ƒn thÃªm dáº§n qua báº£n cáº­p nháº­t, táº¡o cáº£m giÃ¡c â€œÄ‘á»‘i thá»§ luÃ´n tiáº¿n hÃ³aâ€.
+
+ðŸ”¥ CÃ¡c hÃ nh vi chá»c phÃ¡ theo cáº¥p Ä‘á»™
+ðŸŽ¯ Cáº¥p Ä‘á»™ 1 â€“ Báº¯t chÆ°á»›c & gÃ¢y khÃ³ chá»‹u nháº¹
+Sao chÃ©p mÃ³n Äƒn bÃ¡n cháº¡y: Ä‘á»‘i thá»§ Ä‘Æ°a mÃ³n tÆ°Æ¡ng tá»± vÃ o menu.
+
+Báº¯t chÆ°á»›c cÃ¡ch bÃ i trÃ­ quÃ¡n: dÃ¹ng mÃ u sáº¯c, bÃ n gháº¿ giá»‘ng há»‡t.
+
+DÃ¹ng biá»ƒn hiá»‡u gáº§n giá»‘ng: gÃ¢y nháº§m láº«n cho khÃ¡ch hÃ ng.
+
+Gá»­i khÃ¡ch giáº£: Ä‘áº¿n quÃ¡n rá»“i chÃª bai, gÃ¢y rá»‘i nháº¹.
+
+âž¡ï¸ TÃ¡c Ä‘á»™ng: bÃ  chá»§ cáº£m tháº¥y bá»‹ â€œÄ‘áº¡o nhÃ¡iâ€, dá»… ná»•i giáº­n náº¿u khÃ´ng Ä‘Æ°á»£c tráº¥n an.
+
+âš ï¸ Cáº¥p Ä‘á»™ 2 â€“ KhiÃªu khÃ­ch cÃ´ng khai
+Gá»i Ä‘iá»‡n thoáº¡i má»‰a mai: giá»ng Ä‘iá»‡u chÃ¢m chá»c, nháº¯c láº¡i tháº¥t báº¡i cÅ©.
+
+Tung tin Ä‘á»“n trÃªn máº¡ng xÃ£ há»™i: áº£nh giáº£, review xáº¥u, tin sai sá»± tháº­t.
+
+Tá»• chá»©c sá»± kiá»‡n Ä‘á»‘i Ä‘áº§u: khuyáº¿n mÃ£i cáº¡nh tranh Ä‘Ãºng ngÃ y quÃ¡n báº¡n cÃ³ chÆ°Æ¡ng trÃ¬nh.
+
+âž¡ï¸ TÃ¡c Ä‘á»™ng: bÃ  chá»§ máº¥t kiá»ƒm soÃ¡t cáº£m xÃºc, cÃ³ thá»ƒ trÃºt giáº­n lÃªn nhÃ¢n viÃªn.
+
+ðŸš¨ Cáº¥p Ä‘á»™ 3 â€“ GÃ i báº«y tinh vi
+Giáº£ lÃ m khÃ¡ch VIP: chÃª bai nhÃ¢n viÃªn Ä‘á»ƒ bÃ  chá»§ ná»•i Ä‘iÃªn.
+
+Gá»­i Ä‘Æ¡n tá»‘ cÃ¡o giáº£ máº¡o: khiáº¿n quÃ¡n bá»‹ kiá»ƒm tra báº¥t ngá».
+
+ThuÃª ngÆ°á»i quay video bÃ´i nhá»: dá»±ng cáº£nh giáº£ Ä‘á»ƒ lan truyá»n.
+
+âž¡ï¸ TÃ¡c Ä‘á»™ng: náº¿u khÃ´ng xá»­ lÃ½ khÃ©o, bÃ  chá»§ sáº½ cÃ³ hÃ nh vi â€œná»•i Ä‘iÃªnâ€ cáº¥p cao (Ä‘áº­p phÃ¡, Ä‘á»‘t quÃ¡n).
+
+ðŸ§˜â€â™€ï¸ CÆ¡ cháº¿ phÃ²ng thá»§ cá»§a ngÆ°á»i chÆ¡i
+NgÆ°á»i chÆ¡i cÃ³ thá»ƒ thá»±c hiá»‡n cÃ¡c hÃ nh Ä‘á»™ng Ä‘á»ƒ giáº£m nguy cÆ¡ ná»•i Ä‘iÃªn:
+
+Táº¡o khÃ´ng gian thÆ° giÃ£n cho bÃ  chá»§: gháº¿ massage, trÃ  tháº£o má»™c, nháº¡c nháº¹.
+
+TÆ°Æ¡ng tÃ¡c tÃ­ch cá»±c vá»›i khÃ¡ch hÃ ng: giÃºp bÃ  chá»§ tháº¥y Ä‘Æ°á»£c giÃ¡ trá»‹ tháº­t.
+
+BÃ¡o cÃ¡o hÃ nh vi Ä‘á»‘i thá»§: náº¿u phÃ¡t hiá»‡n sá»›m, cÃ³ thá»ƒ vÃ´ hiá»‡u hÃ³a.
+
+TÄƒng Ä‘iá»ƒm â€œtÃ¢m lÃ½â€: qua cÃ¡c mini-game nhÆ° trÃ² chuyá»‡n, táº·ng quÃ , hoáº·c giáº£i trÃ­.
+
+ðŸŽ® Gá»£i Ã½ má»Ÿ rá»™ng gameplay
+Há»‡ thá»‘ng â€œcáº£m xÃºcâ€ cá»§a bÃ  chá»§: thanh tráº¡ng thÃ¡i dao Ä‘á»™ng theo ngÃ y.
+
+Mini-event: má»—i tuáº§n cÃ³ má»™t â€œcuá»™c chiáº¿nâ€ giá»¯a hai quÃ¡n, ngÆ°á»i chÆ¡i pháº£i giá»¯ bÃ¬nh tÄ©nh cho bÃ  chá»§ Ä‘á»ƒ vÆ°á»£t qua.
+
+Há»‡ thá»‘ng â€œpháº£n cÃ´ngâ€: náº¿u ngÆ°á»i chÆ¡i giá»¯ Ä‘Æ°á»£c bÃ¬nh tÄ©nh qua nhiá»u láº§n, sáº½ má»Ÿ khÃ³a hÃ nh vi pháº£n Ä‘Ã²n (vÃ­ dá»¥: chiáº¿n dá»‹ch quáº£ng bÃ¡, há»£p tÃ¡c vá»›i influencer).
