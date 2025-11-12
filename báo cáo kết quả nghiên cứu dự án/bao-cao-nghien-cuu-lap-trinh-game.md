@@ -1,27 +1,38 @@
-Nền tảng cơ bản để xây dựng trò chơi mô phỏng cảm xúc
-Báo Cáo Nghiên Cứu: Những Yếu Tố Cơ Bản Để Bắt Đầu Xây Dựng Trò Chơi Mô Phỏng Cảm Xúc - Kinh Doanh Với Vai Trò Nhân Vật Phụ Hỗ Trợ
-Giới Thiệu
+# Nền Tảng Cơ Bản Để Xây Dựng Trò Chơi Mô Phỏng Cảm Xúc
+
+## Báo Cáo Nghiên Cứu: Những Yếu Tố Cơ Bản Để Bắt Đầu Xây Dựng Trò Chơi Mô Phỏng Cảm Xúc - Kinh Doanh Với Vai Trò Nhân Vật Phụ Hỗ Trợ
+
+### Giới Thiệu
 Việc phát triển một trò chơi mô phỏng cảm xúc – kinh doanh, nơi người chơi vào vai nhân vật phụ hỗ trợ bà chủ vượt qua các thử thách tâm lý và cạnh tranh trên thương trường, đặt ra nhiều thách thức và yêu cầu phân tích ở mức độ nền tảng. Loại game này không chỉ cần tái hiện bối cảnh kinh doanh mà còn đặt trọng tâm vào tầng cảm xúc, hành vi và các mối quan hệ xã hội phức tạp giữa các nhân vật. Vì vậy, để xây dựng được một sản phẩm có chiều sâu, cuốn hút, các nhà phát triển buộc phải bắt đầu từ những yếu tố nền tảng về lựa chọn thể loại - gameplay, thiết kế các hệ thống như AI, cơ chế cảm xúc, mini-game, thắng/thua, tương tác xã hội, đến lộ trình học tập - trau dồi kỹ năng nghiệp vụ và vận hành các công cụ phần mềm cần thiết.
 
-Báo cáo này sẽ phân tích chi tiết các yếu tố then chốt cần chuẩn bị trước khi bước vào quá trình phát triển game mô phỏng cảm xúc - kinh doanh theo vai phụ trợ, tập trung vào sáu góc độ chính: (1) Lựa chọn thể loại game và xác định gameplay cốt lõi, (2) Công cụ phát triển cơ bản, (3) Kỹ năng thiết yếu cho các thành viên trong đội dự án, (4) Lộ trình học tập khởi đầu, (5) Gợi mở và phân tích các hệ thống đặc thù như AI, cảm xúc, mini-game, tương tác xã hội, và (6) Tổng kết các đề xuất định hướng phát triển.
+Báo cáo này sẽ phân tích chi tiết các yếu tố then chốt cần chuẩn bị trước khi bước vào quá trình phát triển game mô phỏng cảm xúc - kinh doanh theo vai phụ trợ, tập trung vào sáu góc độ chính:
 
-Thể Loại Game Và Gameplay Cốt Lõi
-1. Lựa Chọn Thể Loại Game Mô Phỏng Cảm Xúc – Kinh Doanh
+### 1. Lựa chọn thể loại game và xác định gameplay cốt lõi
+### 2. Công cụ phát triển cơ bản
+### 3. Kỹ năng thiết yếu cho các thành viên trong đội dự án
+### 4. Lộ trình học tập khởi đầu
+### 5. Gợi mở và phân tích các hệ thống đặc thù như AI, cảm xúc, mini-game, tương tác xã hội
+### 6. Tổng kết các đề xuất định hướng phát triển
+
+## Thể Loại Game Và Gameplay Cốt Lõi
+
+### 1. Lựa Chọn Thể Loại Game Mô Phỏng Cảm Xúc – Kinh Doanh
 Game mô phỏng kinh doanh (Business Simulation) kết hợp các yếu tố quản lý, lập kế hoạch tài chính, nhân sự, ra quyết định chiến lược trong môi trường kinh tế mô phỏng. Đặc biệt, khi thêm chiều sâu cảm xúc, game cần bổ sung lớp mô phỏng cảm xúc-hành vi dạng life-sim, dating-sim hoặc narrative-driven (game dẫn truyện), nhấn mạnh vào trải nghiệm tâm lý, tương tác nội tâm và các mối quan hệ xã hội.
 
-Các thể loại phù hợp gồm:
+**Các thể loại phù hợp:**
 
-Tycoon/Management Sim: Người chơi giúp bà chủ ra quyết định kinh doanh, tối ưu hóa tài nguyên, quản lý nhân sự, lên kế hoạch cạnh tranh.
+- **Tycoon/Management Sim**: Người chơi giúp bà chủ ra quyết định kinh doanh, tối ưu hóa tài nguyên, quản lý nhân sự, lên kế hoạch cạnh tranh.
+- **Life Simulation**: Người chơi hỗ trợ quản lý cảm xúc bà chủ, điều phối quan hệ với nhân viên, đối tác, khách hàng, bạn bè, gia đình.
+- **Visual Novel/Interactive Drama**: Trò chơi dựa vào hội thoại và lựa chọn, xây dựng tuyến truyện với các nhánh cảm xúc rõ rệt.
+- **Serious game**: Chú trọng vào bài học nội tâm, vượt qua stress, áp lực.
 
-Life Simulation: Người chơi hỗ trợ quản lý cảm xúc bà chủ, điều phối quan hệ với nhân viên, đối tác, khách hàng, bạn bè, gia đình.
+**Các sản phẩm tham khảo:**
+- Recettear: An Item Shop's Tale (đa tuyến cảm xúc, kinh doanh)
+- Stardew Valley (mô phỏng nông trại, cảm xúc và mạng xã hội)
+- Virtonomics (mô phỏng kinh doanh đa cấp độ xã hội)
+- Fe/male Switch (nhấn mạnh resilience và sức khỏe tinh thần cho doanh nhân nữ)
 
-Visual Novel/Interactive Drama: Trò chơi dựa vào hội thoại và lựa chọn, xây dựng tuyến truyện với các nhánh cảm xúc rõ rệt.
-
-Serious game cho đào tạo kỹ năng cảm xúc-xã hội/doanh nghiệp: Chú trọng vào bài học nội tâm, vượt qua stress, áp lực.
-
-Các sản phẩm tham khảo: Recettear: An Item Shop’s Tale (đa tuyến cảm xúc, kinh doanh), Stardew Valley (mô phỏng nông trại, cảm xúc và mạng xã hội), Virtonomics (mô phỏng kinh doanh đa cấp độ xã hội), Fe/male Switch (nhấn mạnh resilience và sức khỏe tinh thần cho doanh nhân nữ).
-
-2. Xác Định Gameplay Cốt Lõi
+### 2. Xác Định Gameplay Cốt Lõi
 Theo lý thuyết thiết kế game hiện đại, một gameplay cốt lõi phải xác định được hành động chính mà người chơi lặp lại xuyên suốt (core loop), đồng thời lồng ghép được các mục tiêu ngắn - dài hạn, quy tắc, thử thách và phần thưởng rõ ràng.
 
 Đề xuất gameplay loop:
@@ -46,7 +57,7 @@ Lồng ghép yếu tố quản trị doanh nghiệp với các mini-game/mission
 
 Đa dạng hóa tuyến truyện, tình huống dựa trên quyết sách của người chơi.
 
-3. Thiết Kế Hệ Thống AI Điều Khiển Hành Vi Nhân Vật
+### 3. Thiết Kế Hệ Thống AI Điều Khiển Hành Vi Nhân Vật
 Yêu cầu AI:
 
 Nhân vật chính (bà chủ): AI phải phản ứng linh hoạt với các hành động/khuyên nhủ/de-xin của người chơi, nhận biết stress, động viên/bức xúc, và mô phỏng tiến trình thay đổi tâm trạng, động lực.
@@ -63,7 +74,7 @@ Utility AI: Lựa chọn hành động tối ưu dựa trên nhu cầu cảm xú
 
 Machine Learning/Scripted Adaptation: AI học hỏi phong cách chơi của người chơi để điều chỉnh chiến thuật đối kháng/cộng tác.
 
-4. Xây Dựng Hệ Thống Cảm Xúc Cho Nhân Vật
+### 4. Xây Dựng Hệ Thống Cảm Xúc Cho Nhân Vật
 Hệ cảm xúc cần thiết kế tối thiểu các thành phần:
 
 Thước đo cảm xúc (Emotion Meter): Chỉ số hóa các trạng thái như tự tin, stress, hài lòng, tức giận, lo lắng… thay đổi qua quá trình chơi.
@@ -74,7 +85,7 @@ Tương tác đa chiều: Quyết định cảm xúc không chỉ dựa vào m�
 
 Khuyến nghị vận dụng các mô hình như MDA (Mechanics – Dynamics – Aesthetics) framework và các phương pháp đo cảm xúc người chơi như biểu cảm khuôn mặt, khảo sát, dữ liệu sinh lý trong thử nghiệm nội bộ để điều chỉnh gameplay hợp lý.
 
-5. Định Nghĩa Điều Kiện Thắng – Thua
+### 5. Định Nghĩa Điều Kiện Thắng – Thua
 Cơ chế thắng/thua phải gắn kết chặt chẽ giữa hai lớp “kinh doanh” và “cảm xúc-tâm lý”:
 
 Thắng: Đạt được chỉ số kinh doanh kỳ vọng (lợi nhuận, thị phần, mở rộng…), đồng thời bà chủ ở trạng thái cảm xúc tích cực (hạnh phúc, trưởng thành, tự tin…); xây dựng đội ngũ ổn định, quan hệ xã hội hài hòa.
@@ -83,7 +94,7 @@ Thua: Thất bại trong kinh doanh, bà chủ rơi vào trạng thái cảm xú
 
 Khuyến nghị dùng hệ đa điều kiện để tạo trải nghiệm chơi lại (replayability): mỗi lần chơi có thể hướng tới một kết thúc khác nhau dựa vào cách nhân vật phụ tác động.
 
-6. Thiết Kế Mini-game Phù Hợp
+### 6. Thiết Kế Mini-game Phù Hợp
 Mini-game góp phần đa dạng hóa trải nghiệm, giảm nhàm chán và bổ trợ cho hệ thống cảm xúc-kinh doanh:
 
 Giải tỏa stress: Mini-game thở, thiền, vẽ tranh, đánh đàn, hoặc các tương tác giải trí.
@@ -96,7 +107,7 @@ Team-building: Mini-game đồng đội/cạnh tranh nhẹ, kiểm nghiệm sự
 
 Mini-game nên cân bằng giữa giải trí, giáo dục, thử thách nhẹ nhàng, và kết nối mạch truyện.
 
-7. Cơ Chế Tương Tác Xã Hội Trong Game
+### 7. Cơ Chế Tương Tác Xã Hội Trong Game
 Trò chơi phải xây dựng hệ thống tương tác xã hội nhiều lớp:
 
 Quan hệ bà chủ – nhân vật phụ (người chơi): Phản hồi liên tục, hiệu ứng từ lời khuyên – hành động của phụ; tích hợp dialogue system với lựa chọn nhiều hướng đi.
@@ -108,7 +119,7 @@ Bà chủ – đối thủ: Hệ đối kháng cạnh tranh thương trường, 
 Có thể triển khai cơ chế “relationship grid” dạng ma trận, theo dõi trạng thái (tích cực/trung lập/tiêu cực), cảm xúc liên nhân vật, và sự thay đổi của mạng lưới xã hội theo thời gian và lựa chọn của người chơi.
 
 Công Cụ Phát Triển Cơ Bản
-1. Lựa Chọn Game Engine
+### 1. Lựa Chọn Game Engine
 Các engine phổ biến phục vụ cho thể loại mô phỏng, kinh doanh, nhập vai – cảm xúc bao gồm:
 
 Unity: Linh hoạt, hỗ trợ 2D/3D, cộng đồng đông đảo, thư viện asset đồ sộ, plugin AI – dialogue – emotion system dồi dào, học đơn giản cho người mới.
@@ -123,7 +134,7 @@ GameMaker Studio 2: Tối ưu cho 2D, đơn giản, dễ tiếp cận, nhiều h
 
 Tiêu chí lựa chọn: Độ phù hợp với mục đích, mức độ cộng đồng/sự hỗ trợ, tài nguyên học tập, khả năng mở rộng/cá nhân hóa AI, hỗ trợ mobile/web nếu định phát hành đa nền tảng.
 
-2. Công Cụ Thiết Kế Đồ Họa 2D/3D
+### 2. Công Cụ Thiết Kế Đồ Họa 2D/3D
 2D Graphics: GIMP, Krita (miễn phí); Adobe Photoshop, Clip Studio Paint (cao cấp); Inkscape cho vector art.
 
 Sprite & Animation: Aseprite, Piskel (miễn phí), Spine (skeletal animation).
@@ -132,12 +143,12 @@ Sprite & Animation: Aseprite, Piskel (miễn phí), Spine (skeletal animation).
 
 Asset Store: Unity Asset Store, itch.io, OpenGameArt.org – nhiều asset miễn phí/có phí, tích hợp vào workflow nhanh chóng.
 
-3. Công Cụ Âm Thanh Và Thiết Kế Âm Thanh
+### 3. Công Cụ Âm Thanh Và Thiết Kế Âm Thanh
 Âm thanh căn bản: Audacity, GarageBand, FL Studio (cơ bản).
 
 Middleware chuyên nghiệp: FMOD và Wwise (miễn phí cho indie), hỗ trợ tạo hiệu ứng âm thanh động, hòa phối âm nhạc đều theo trạng thái cảm xúc, tích hợp AI audio effects cho môi trường 3D, đa nền tảng.
 
-4. Ngôn Ngữ Lập Trình Và Framework Phát Triển
+### 4. Ngôn Ngữ Lập Trình Và Framework Phát Triển
 Unity: Sử dụng C#, cộng đồng lớn, nhiều mẫu code, thư viện.
 
 Unreal Engine: C++, kèm Blueprint visual scripting để giảm viết code cho gameplay designer.
@@ -148,17 +159,17 @@ GDevelop, GameMaker Studio: Block-based hoặc ngôn ngữ script đơn giản (
 
 AI Framework: TensorFlow/ML.NET (nếu làm AI nâng cao), các package Behavior Designer trong Unity, AI trees/decision system của Unreal, hoặc thư viện GAIGE (Python).
 
-5. Công Cụ Prototyping Và Proof-of-concept
+### 5. Công Cụ Prototyping Và Proof-of-concept
 Prototyping nhanh: Construct, Twine (narrative), Figma (UI/UX), InVision, ProtoPie (mockup hành động UI).
 
 Paper prototyping: Test core loop, UI, cảm xúc bằng phương pháp “giấy và bút” trước khi số hóa.
 
-6. Quản Lý Dự Án Và Quy Trình Phát Triển
+### 6. Quản Lý Dự Án Và Quy Trình Phát Triển
 Agile – Scrum/Kanban: Chia milestone nhỏ (sprint), ưu tiên giao tiếp nhóm/tách task theo tính năng (feature-driven), huy động ý kiến cả lập trình viên, nghệ sĩ – nhà thiết kế.
 
 Công cụ phổ biến: Trello, Jira (quản lý tác vụ), Slack/Discord (giao tiếp, chia sẻ file), Git (quản lý phiên bản, Github/Bitbucket).
 
-7. Công Cụ UI/UX Design
+### 7. Công Cụ UI/UX Design
 Học cách bố trí giao diện hợp lý, dễ đọc trên đa thiết bị (mobile, PC).
 
 Tools: Figma, Adobe XD, Sketch để thiết kế wireframe, prototype UI.
@@ -166,7 +177,7 @@ Tools: Figma, Adobe XD, Sketch để thiết kế wireframe, prototype UI.
 Tham khảo thư viện giao diện: Game UI Database, InterfaceInGame (các mẫu HUD, inventory, shop… chuẩn cho game kinh doanh – cảm xúc).
 
 Kỹ Năng Cần Có
-1. Kỹ Năng Lập Trình Viên Game Mô Phỏng
+### 1. Kỹ Năng Lập Trình Viên Game Mô Phỏng
 OOP: Quy tắc lập trình hướng đối tượng, sử dụng class, inheritance, polymorphism hiệu quả cho mô hình hóa nhân vật, trạng thái cảm xúc, event.
 
 Kỹ thuật AI: Thành thục finite state machine, behavior tree, lập trình event-driven, quản lý các trạng thái tâm lý nhận thức, áp dụng điều chỉnh trình độ/bậc khó AI (adaptive difficulty).
@@ -175,7 +186,7 @@ Mathematics: Linear algebra, vector, matrix chuyển động/quản lý không g
 
 Debugging and Optimization: Phát hiện lỗi, tối ưu hóa GPU/CPU, quản lý asset, profiling từng frame.
 
-2. Kỹ Năng Thiết Kế Game - UX
+### 2. Kỹ Năng Thiết Kế Game - UX
 Xây dựng core loop: Viết được GDD (Game Design Document) rõ ràng hóa mục tiêu, mechanic, hệ thống cảm xúc, thắng/thua, lộ trình mở khóa, thử thách, phần thưởng.
 
 Thiết kế UI/UX: Đặt người chơi vào trung tâm (player-centric emotional design); hiểu rõ việc phối hợp giữa giao diện, thẩm mỹ và hành vi cảm xúc nhân vật.
@@ -184,21 +195,21 @@ Tư duy hệ thống: Phân tích – lập sơ đồ hệ thống cảm xúc, m
 
 Sống còn với feedback: Tiếp nhận và điều chỉnh game dựa theo trải nghiệm thử nghiệm thực tế (playtesting) – đo cảm xúc người chơi bằng bản khảo sát, sensing camera hoặc physiological sensor (GSR, EEG... nếu có).
 
-3. Kỹ Năng Nghệ Thuật Và Thiết Kế Giao Diện
+### 3. Kỹ Năng Nghệ Thuật Và Thiết Kế Giao Diện
 Concept Art, Sprite/Asset Creation: Dựng hình và tạo kiểu nhân vật thể hiện đúng “tâm trạng”, thần thái, linh hoạt trong thể hiện cảm xúc đa dạng.
 
 Animation: Biết sử dụng Spine/Aseprite cho 2D hoặc Blender cho 3D; xây dựng biểu cảm – động tác nhân vật truyền đạt trạng thái nội tâm.
 
 Âm nhạc, hiệu ứng âm thanh: Sản xuất nhạc nền, voice acting, sound fx cho từng trạng thái cảm xúc; phối hợp âm với sự kiện/kịch bản gameplay.
 
-4. Quản Lý Dự Án Và Quy Trình Phát Triển
+### 4. Quản Lý Dự Án Và Quy Trình Phát Triển
 Agile/Scrum: Chia từng tính năng nhỏ, cập nhật liên tục, kiểm thử sớm, bám sát phản hồi.
 
 Kỹ năng teamwork, giao tiếp: Gắn kết giữa các nhóm dev, art, design, QA, marketing.
 
 Kỹ năng documentation: Viết tài liệu kỹ thuật, GDD, cập nhật các bản thiết kế theo thay đổi thực tế, phân công nhiệm vụ rõ ràng.
 
-5. Soft Skills Và Tinh Thần Học Hỏi
+### 5. Soft Skills Và Tinh Thần Học Hỏi
 Tư duy sáng tạo – phản biện: Sáng tạo trong thiết kế cơ chế mới, mini-game, event đặc biệt; phản biện khi lựa chọn phương pháp tiếp cận hoặc giải quyết vấn đề kỹ thuật-phản ánh chủ đề cảm xúc một cách tự nhiên.
 
 Kiên trì – cầu thị: Chấp nhận thất bại ở prototype, điều chỉnh lối chơi, hệ thống gameplay dựa trên trải nghiệm người chơi thực, sẵn sàng thử nghiệm các hướng đi mới.
@@ -206,12 +217,12 @@ Kiên trì – cầu thị: Chấp nhận thất bại ở prototype, điều ch
 Cập nhật xu thế: Theo dõi các xu hướng AI, nghệ thuật, tương tác xã hội mới trong lĩnh vực game.
 
 Lộ Trình Học Tập Khởi Đầu
-1. Giai Đoạn Cơ Bản (1-3 tháng)
+### 1. Giai Đoạn Cơ Bản (1-3 tháng)
 Học lập trình – Unity hoặc Godot: Tìm hiểu C# (cho Unity), GDScript (cho Godot); hoàn thành khóa căn bản trên Unity Learn hoặc Godot Docs. Tập trung thực hiện code điều khiển UI, biến đổi đơn giản của trạng thái, thao tác animation, quản lý asset.
 
 Hoàn thành các project mẫu: Game clicker, match-3, memory, hoặc mô phỏng bán hàng nhỏ bằng template có sẵn; thực hành chỉnh sửa mechanics để nhận diện cảm xúc nhân vật.
 
-2. Nâng Cao Gameplay Cốt Lõi (4-6 tháng)
+### 2. Nâng Cao Gameplay Cốt Lõi (4-6 tháng)
 Nắm chắc lập trình OOP, state machine, event system.
 
 Chuyên sâu AI: Viết script Behavior Tree/Finite State cho NPC, đơn vị cảm xúc nhân vật. Học sử dụng thư viện AI builder (Ví dụ: Behavior Designer cho Unity).
@@ -220,7 +231,7 @@ Design pattern: Áp dụng MDA Framework, Emotional design vào dự án nhỏ (
 
 Xây dựng mini-game đơn giản: Time management, stress relief, đàm phán, đấu trí với AI đối thủ.
 
-3. Hoàn Thiện Kỹ Năng Đa Dạng (7-12 tháng)
+### 3. Hoàn Thiện Kỹ Năng Đa Dạng (7-12 tháng)
 Làm một game demo đa chiều: Sử dụng tài nguyên asset miễn phí/phần mềm thiết kế cơ bản, ngoại thất hóa – tinh chỉnh UI/UX, hệ thống cảm xúc – mini-game – đối thoại đa tuyến.
 
 Playtesting thường xuyên: Thu thập feedback, đo trạng thái cảm xúc.
@@ -229,12 +240,12 @@ Phối hợp nhóm: Kết nối với các bạn nghệ sĩ, nhà thiết kế, 
 
 Học về âm thanh: Tích hợp âm thanh động, voice acting cho nhân vật, biến đổi nhạc nền theo trạng thái cảm xúc.
 
-4. Ứng Dụng Agile Và Quản Lý Dự Án (song song các giai đoạn)
+### 4. Ứng Dụng Agile Và Quản Lý Dự Án (song song các giai đoạn)
 Đăng ký sử dụng Trello, Discord cho teamwork, lập log phát triển (DevLog), sử dụng Git cho quản lý mã nguồn.
 
 Học Scrum/Kanban: Chia tính năng lớn thành backlog, sprint; đánh giá – điều chỉnh mục tiêu ngắn/dài hạn dựa vào feedback định kỳ.
 
-5. Duy Trì Năng Lượng Học Tập
+### 5. Duy Trì Năng Lượng Học Tập
 Học đều đặn 1-2h/ngày, lên plan tuần, chọn mentor, tham gia cộng đồng game dev (Unity forum, Godot, Discord, Facebook group tiếng Việt) để nhận chia sẻ kinh nghiệm, cập nhật thông tin mới.
 
 Tham gia game jam nhỏ, hoàn thiện prototype trình bày (áp dụng cho các dự án khởi nghiệp hoặc đề tài riêng).
@@ -254,3 +265,4 @@ Việc phát triển một trò chơi mô phỏng cảm xúc – kinh doanh vớ
 Ở mỗi giai đoạn học/triển khai, cần chú trọng phản hồi thực tế từ người chơi, thử nghiệm các phiên bản nhỏ, điều chỉnh thiết kế, kịch bản và cân bằng giữa yếu tố kinh doanh & cảm xúc. Sự phối hợp giữa kỹ năng lập trình, nghệ thuật, thiết kế UX, audio – cùng như phương pháp Agile sẽ tạo nền móng vững chắc để phát triển sản phẩm khác biệt, có chiều sâu và khả năng chinh phục cả thị trường lẫn cộng đồng người chơi.
 
 Tương lai của segment game mô phỏng cảm xúc – kinh doanh sẽ càng “người hóa”, “cảm xúc hóa”, tích hợp AI học sâu, mô phỏng tâm lý, và các cơ chế tương tác xã hội đa chiều hơn. Hãy bắt đầu từ những viên gạch nền tảng – kỹ năng, công cụ, quy trình – như trình bày trong báo cáo này, để từng bước xây dựng “hệ gen” thành công cho dự án game mô phỏng của bạn.
+
