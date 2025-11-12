@@ -1,52 +1,56 @@
-﻿ðŸ” Nhá»¯ng Ä‘iá»ƒm báº¡n cÃ³ thá»ƒ bá»• sung hoáº·c cáº£i thiá»‡n
-1. TÃ­nh cÃ¡ nhÃ¢n hÃ³a ngÆ°á»i chÆ¡i
-Hiá»‡n táº¡i ngÆ°á»i chÆ¡i vÃ o vai nhÃ¢n váº­t phá»¥, nhÆ°ng chÆ°a cÃ³ há»‡ thá»‘ng phÃ¡t triá»ƒn cÃ¡ nhÃ¢n rÃµ rÃ ng.
+# BO SUNG THIEU SOT HIEN TAI
 
-Gá»£i Ã½:
+🔍 Những điểm bạn có thể bổ sung hoặc cải thiện
+### 1. Tính cá nhân hóa người chơi
+Hiện tại người chơi vào vai nhân vật phụ, nhưng chưa có hệ thống phát triển cá nhân rõ ràng.
 
-ThÃªm há»‡ thá»‘ng ká»¹ nÄƒng riÃªng cho ngÆ°á»i chÆ¡i (vÃ­ dá»¥: giao tiáº¿p, phÃ¢n tÃ­ch, cáº£m xÃºc).
+Gợi ý:
 
-Cho phÃ©p ngÆ°á»i chÆ¡i chá»n phong cÃ¡ch há»— trá»£: tÃ¢m lÃ½ â€“ chiáº¿n lÆ°á»£c â€“ xÃ£ há»™i.
+Thêm hệ thống kỹ năng riêng cho người chơi (ví dụ: giao tiếp, phân tích, cảm xúc).
 
-2. Há»‡ thá»‘ng pháº£n há»“i tá»« khÃ¡ch hÃ ng
-KhÃ¡ch hÃ ng hiá»‡n chá»‰ lÃ  yáº¿u tá»‘ phá»¥, chÆ°a cÃ³ pháº£n á»©ng rÃµ rÃ ng.
+Cho phép người chơi chọn phong cách hỗ trợ: tâm lý – chiến lược – xã hội.
 
-Gá»£i Ã½:
+### 2. Hệ thống phản hồi từ khách hàng
+Khách hàng hiện chỉ là yếu tố phụ, chưa có phản ứng rõ ràng.
 
-ThÃªm há»‡ thá»‘ng Ä‘Ã¡nh giÃ¡, pháº£n há»“i, review tá»« khÃ¡ch hÃ ng.
+Gợi ý:
 
-Má»—i hÃ nh vi cá»§a bÃ  chá»§ hoáº·c nhÃ¢n váº­t phá»¥ sáº½ áº£nh hÆ°á»Ÿng Ä‘áº¿n Ä‘iá»ƒm hÃ i lÃ²ng.
+Thêm hệ thống đánh giá, phản hồi, review từ khách hàng.
 
-3. Há»‡ thá»‘ng nÃ¢ng cáº¥p cá»­a tiá»‡m
-Cá»­a tiá»‡m chÆ°a cÃ³ cÆ¡ cháº¿ nÃ¢ng cáº¥p hoáº·c thay Ä‘á»•i theo thá»i gian.
+Mỗi hành vi của bà chủ hoặc nhân vật phụ sẽ ảnh hưởng đến điểm hài lòng.
 
-Gá»£i Ã½:
+### 3. Hệ thống nâng cấp cửa tiệm
+Cửa tiệm chưa có cơ chế nâng cấp hoặc thay đổi theo thời gian.
 
-Cho phÃ©p nÃ¢ng cáº¥p ná»™i tháº¥t, trang trÃ­, dá»‹ch vá»¥ â†’ áº£nh hÆ°á»Ÿng Ä‘áº¿n cáº£m xÃºc bÃ  chá»§ vÃ  khÃ¡ch.
+Gợi ý:
 
-Má»—i nÃ¢ng cáº¥p cÃ³ thá»ƒ má»Ÿ khÃ³a mini-game hoáº·c event má»›i.
+Cho phép nâng cấp nội thất, trang trí, dịch vụ → ảnh hưởng đến cảm xúc bà chủ và khách.
 
-4. TÃ­nh ngáº«u nhiÃªn vÃ  biáº¿n Ä‘á»™ng thá»‹ trÆ°á»ng
-Game mÃ´ phá»ng kinh doanh nÃªn cÃ³ yáº¿u tá»‘ thá»‹ trÆ°á»ng, cáº¡nh tranh, biáº¿n Ä‘á»™ng.
+Mỗi nâng cấp có thể mở khóa mini-game hoặc event mới.
 
-Gá»£i Ã½:
+### 4. Tính ngẫu nhiên và biến động thị trường
+Game mô phỏng kinh doanh nên có yếu tố thị trường, cạnh tranh, biến động.
 
-ThÃªm há»‡ thá»‘ng thá»i tiáº¿t, tin tá»©c, xu hÆ°á»›ng tiÃªu dÃ¹ng â†’ áº£nh hÆ°á»Ÿng Ä‘áº¿n hÃ nh vi khÃ¡ch vÃ  bÃ  chá»§.
+Gợi ý:
 
-CÃ³ thá»ƒ tÃ­ch há»£p báº£ng tin hoáº·c radio trong game Ä‘á»ƒ táº¡o chiá»u sÃ¢u.
+Thêm hệ thống thời tiết, tin tức, xu hướng tiêu dùng → ảnh hưởng đến hành vi khách và bà chủ.
 
-5. Há»‡ thá»‘ng lÆ°u trá»¯ vÃ  phÃ¢n tÃ­ch dá»¯ liá»‡u ngÆ°á»i chÆ¡i
-Gá»£i Ã½:
+Có thể tích hợp bảng tin hoặc radio trong game để tạo chiều sâu.
 
-ThÃªm nháº­t kÃ½ cáº£m xÃºc, hÃ nh vi, lá»±a chá»n â†’ giÃºp ngÆ°á»i chÆ¡i phÃ¢n tÃ­ch láº¡i hÃ nh trÃ¬nh.
+### 5. Hệ thống lưu trữ và phân tích dữ liệu người chơi
+Gợi ý:
 
-CÃ³ thá»ƒ dÃ¹ng Ä‘á»ƒ má»Ÿ khÃ³a ending Ä‘áº·c biá»‡t hoáº·c pháº£n cÃ´ng Ä‘á»‘i thá»§.
+Thêm nhật ký cảm xúc, hành vi, lựa chọn → giúp người chơi phân tích lại hành trình.
 
-6. TÃ­nh nÄƒng cá»™ng Ä‘á»“ng hoáº·c multiplayer nháº¹
-Náº¿u cÃ³ Ä‘iá»u kiá»‡n, cÃ³ thá»ƒ má»Ÿ rá»™ng thÃ nh game cÃ³ yáº¿u tá»‘ cá»™ng Ä‘á»“ng.
+Có thể dùng để mở khóa ending đặc biệt hoặc phản công đối thủ.
 
-Gá»£i Ã½:
+### 6. Tính năng cộng đồng hoặc multiplayer nhẹ
+Nếu có điều kiện, có thể mở rộng thành game có yếu tố cộng đồng.
 
-NgÆ°á»i chÆ¡i chia sáº» cá»­a tiá»‡m, nhÃ¢n váº­t, hoáº·c mini-game vá»›i nhau.
+Gợi ý:
 
-Tá»• chá»©c sá»± kiá»‡n cá»™ng Ä‘á»“ng (vÃ­ dá»¥: há»™i chá»£, thi thiáº¿t káº¿ tiá»‡m).
+Người chơi chia sẻ cửa tiệm, nhân vật, hoặc mini-game với nhau.
+
+Tổ chức sự kiện cộng đồng (ví dụ: hội chợ, thi thiết kế tiệm).
+
+

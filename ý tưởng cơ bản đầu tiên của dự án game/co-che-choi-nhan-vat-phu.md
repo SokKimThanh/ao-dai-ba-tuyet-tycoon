@@ -1,3 +1,108 @@
+# CO CHE CHOI NHAN VAT PHU
+
+🔍 Những điểm bạn có thể bổ sung hoặc cải thiện
+### 1. Tính cá nhân hóa người chơi
+Hiện tại người chơi vào vai nhân vật phụ, nhưng chưa có hệ thống phát triển cá nhân rõ ràng.
+
+Gợi ý:
+
+Thêm hệ thống kỹ năng riêng cho người chơi (ví dụ: giao tiếp, phân tích, cảm xúc).
+
+Cho phép người chơi chọn phong cách hỗ trợ: tâm lý – chiến lược – xã hội.
+
+### 2. Hệ thống phản hồi từ khách hàng
+Khách hàng hiện chỉ là yếu tố phụ, chưa có phản ứng rõ ràng.
+
+Gợi ý:
+
+Thêm hệ thống đánh giá, phản hồi, review từ khách hàng.
+
+Mỗi hành vi của bà chủ hoặc nhân vật phụ sẽ ảnh hưởng đến điểm hài lòng.
+
+### 3. Hệ thống nâng cấp cửa tiệm
+Cửa tiệm chưa có cơ chế nâng cấp hoặc thay đổi theo thời gian.
+
+Gợi ý:
+
+Cho phép nâng cấp nội thất, trang trí, dịch vụ → ảnh hưởng đến cảm xúc bà chủ và khách.
+
+Mỗi nâng cấp có thể mở khóa mini-game hoặc event mới.
+
+### 4. Tính ngẫu nhiên và biến động thị trường
+Game mô phỏng kinh doanh nên có yếu tố thị trường, cạnh tranh, biến động.
+
+Gợi ý:
+
+Thêm hệ thống thời tiết, tin tức, xu hướng tiêu dùng → ảnh hưởng đến hành vi khách và bà chủ.
+
+Có thể tích hợp bảng tin hoặc radio trong game để tạo chiều sâu.
+
+### 5. Hệ thống lưu trữ và phân tích dữ liệu người chơi
+Gợi ý:
+
+Thêm nhật ký cảm xúc, hành vi, lựa chọn → giúp người chơi phân tích lại hành trình.
+
+Có thể dùng để mở khóa ending đặc biệt hoặc phản công đối thủ.
+
+### 6. Tính năng cộng đồng hoặc multiplayer nhẹ
+Nếu có điều kiện, có thể mở rộng thành game có yếu tố cộng đồng.
+
+Gợi ý:
+
+Người chơi chia sẻ cửa tiệm, nhân vật, hoặc mini-game với nhau.
+
+Tổ chức sự kiện cộng đồng (ví dụ: hội chợ, thi thiết kế tiệm).
+✅ Cấu hình tổng quan
+Thành phần	Thông tin	Đánh giá
+CPU	Intel Core i5-12400F (12 luồng, ~2.5GHz)	Rất tốt cho lập trình và chạy game
+RAM	16GB	Đáp ứng tốt cho Unity, Unreal, Blender
+GPU	NVIDIA GeForce GTX 1650 (4GB VRAM, 12GB tổng)	Đủ mạnh để xử lý đồ họa 3D cơ bản
+Hệ điều hành	Windows 11 Pro 64-bit	Tương thích tốt với các công cụ phát triển
+DirectX	Phiên bản 12	Hỗ trợ đầy đủ cho các engine hiện đại
+Ổ cứng	SSD 500GB + HDD 2TB + SSD phụ	Dư sức lưu trữ và cài đặt phần mềm nặng
+🎮 Có thể dùng các công cụ sau để phát triển game:
+Mục đích	Công cụ đề xuất
+Game Engine	Unity (miễn phí bản Personal), Godot (nhẹ, open-source)
+Thiết kế đồ họa 2D/3D	Blender, GIMP, Piskel
+Lập trình	Visual Studio Code, Rider (nếu dùng C#)
+Quản lý dự án	GitHub, Trello
+Phát hành game	itch.io, Steam (nếu nâng cấp sau này)
+💡 Gợi ý cho bạn:
+Với ngân sách 500k VND, bạn có thể bắt đầu bằng Godot (miễn phí, nhẹ, dễ học).
+
+Dùng asset miễn phí từ Kenney.nl hoặc OpenGameArt.org..
+
+Tập trung làm game 2D đơn giản trước (platformer, puzzle, clicker).
+
+Nếu cần, mình có thể giúp bạn lên kế hoạch học và phát triển game trong 30 ngày.
+
+Bạn có muốn mình gợi ý lộ trình học theo tuần không?
+
+tôi đã cài photoshop và AI
+Tuyệt vời luôn! 💥 Với việc bạn đã cài đặt cả Photoshop và Illustrator (AI), bạn đang có trong tay hai công cụ cực kỳ mạnh để thiết kế đồ họa cho game. Dưới đây là cách tận dụng chúng hiệu quả trong quy trình phát triển game:
+
+🎨 Photoshop – Thiết kế đồ họa 2D & UI
+Tạo nhân vật, background, icon: Vẽ pixel art hoặc tranh vẽ tay rồi xuất ra PNG.
+
+Thiết kế giao diện người dùng (UI): Nút bấm, khung thoại, menu, thanh máu…
+
+Tạo texture cho game 3D: Dùng brush, layer và hiệu ứng để tạo texture đẹp mắt.
+
+Xuất file: PNG (có nền trong suốt), JPG (nền cố định), hoặc PSD để chỉnh sửa sau.
+
+✒️ Illustrator – Thiết kế vector & logo
+Thiết kế logo game, biểu tượng, HUD: Vector sắc nét, dễ co giãn.
+
+Tạo nhân vật dạng vector: Phù hợp với game 2D kiểu hoạt hình.
+
+Thiết kế bản đồ, sơ đồ, biểu tượng kỹ năng: Dễ chỉnh sửa và xuất sang SVG hoặc PNG.
+
+💡 Gợi ý workflow kết hợp
+Vẽ nhân vật hoặc UI bằng Illustrator → xuất PNG/SVG.
+
+Chỉnh màu, hiệu ứng, ánh sáng bằng Photoshop.
+
+Đưa vào game engine (Unity/Godot) để tích hợp.
 🎮 Cơ chế gameplay: Người chơi vào vai nhân vật phụ
 🧍‍♀️ Nhân vật Phượng – Nhân viên hậu sự kiện
 Vai trò người chơi: Hỗ trợ bà chủ, tránh gây lỗi.
@@ -43,10 +148,12 @@ Shipper	Chọn đúng qua gacha hoặc mini-game
 Nhóm thể dục	Giữ đoàn kết, chọn phe hoặc trung lập
 Diệp	Phát hiện và xử lý kẻ gây rối đúng cách
 🧩 Gợi ý cấu trúc lập trình
-Module	Chức năng
+### Module	Chức năng
 SubCharacterController	Quản lý hành vi nhân vật phụ
 GachaSystem	Tung xí ngầu, chọn shipper VIP
 MiniGameManager	Điều khiển trò chơi nhỏ (sửa máy, tìm kẻ nói dối…)
 CutsceneEngine	Tự động chuyển cảnh nhóm thể dục
 FactionImpactSystem	Tính toán ảnh hưởng phe phái đến khách hàng
 EmotionRiskMeter	Hiển thị nguy cơ nổi điên của bà chủ theo hành vi người chơi
+
+

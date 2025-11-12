@@ -1,66 +1,321 @@
-﻿tiáº¿p theo lÃ  xÃ¢y dá»±ng tá»›i nhÃ¢n váº­t phá»¥ cÅ©ng khiáº¿n bÃ  chá»§ dá»… ná»•i Ä‘iÃªn á»Ÿ nhiá»u má»©c khÃ¡c nhau, nhÃ¢n váº­t nhÃ¢n viÃªn tÃªn lÃ  phÆ°á»£ng, má»™t ngÆ°á»i giá»i chÄƒm sÃ³c vÃ  giáº£ng giáº£i dá»… hiá»ƒu cho tráº» con vá»›i báº±ng tá»‘t nghiá»‡m máº§m non Ä‘áº¡i há»c nhÆ°ng khÃ´ng biáº¿t may vÃ¡ vÃ  thÆ°á»ng lÃ m cho khÃ¡ch hÃ ng bá» Ä‘i, hay lÃ m há»ng mÃ¡y may vÃ  lÃ m hÆ° kim mÃ¡y may, khiáº¿n cho khÃ¡ch hÃ ng bá» Ä‘i. cÆ¡ cháº¿ nÃ y sáº½ xuáº¥t hiá»‡n thá»i Ä‘iá»ƒm sau sá»± kiá»‡n Ä‘áº·c biá»‡t á»Ÿ cáº£nh mÃ  Ä‘á»‘i thá»§ Ä‘Ã£ bá»‹ Ä‘Ã¡nh báº¡i khi bÃ  chá»§ bá»‹ táº¥n cÃ´ng trong tiá»‡m vÃ  Ä‘Æ°á»£c cá»©u, khiáº¿n danh tiáº¿ng cá»§a Ä‘á»‘i thá»§ trá»Ÿ thÃ nh thÃ¢n báº¡i danh liá»‡t. nhÃ¢n váº­t phá»¥ tiáº¿p theo lÃ  má»™t nhÃ³m ngÆ°á»i táº­p thá»ƒ dá»¥c vÃ o buá»•i sÃ¡ng thá»i Ä‘iá»ƒm bÃ  chá»§ thá»©c dáº­y lÃ  4h sÃ¡ng vÃ  táº­p thá»ƒ dá»¥c á»Ÿ trÆ°á»ng Ä‘áº¡i há»c sÃ¢n táº­p trÆ°á»ng Ä‘áº¡i há»c. cÃ¡c nhÃ¢n váº­t phá»¥ nÃ y cÃ³ má»™t lá»‘c cÃ¡c sá»± kiá»‡n chá»§ yáº¿u lÃ  sinh nháº­t cá»§a tá»«ng ngÆ°á»i vÃ  chia phe phÃ¡i khiáº¿n bÃ  chá»§ pháº£i cÃ³ khoáº£nh kháº¯c lá»±a chá»n, náº¿u ngÆ°á»i chÆ¡i chá»n má»™t phe thÃ¬ lÆ°á»£ng khÃ¡ch hÃ ng cÅ©ng sáº½ thay Ä‘á»•i theo, dáº«n Ä‘áº¿n kháº£ nÄƒng thua cuá»™c cao hoáº·c tháº¥p, náº¿u ngÆ°á»i chá»n cho bÃ  chá»§ trung láº­p, sáº½ láº¥y Ä‘Æ°á»£c khÃ¡ch cá»§a cáº£ 2 phe. khiáº¿n trÃ² chÆ¡i trá»Ÿ nÃªn dá»… hÆ¡n. Ä‘Ã¢y lÃ  luá»“ng xÃ¢y dá»±ng chiá»u sÃ¢u cá»§a game bá»Ÿi tÃ¡c Ä‘á»™ng lÃªn khÃ¡ch hÃ ng cá»§a nhÃ¢n váº­t phá»¥ . tiáº¿p theo nhÃ¢n váº­t shiper thÆ°á»ng lui tá»›i Ä‘á»ƒ nháº­p hÃ ng cho cá»­a tiá»‡m, cÃ³ má»™t sá»‘ dáº¡ng lÃ  lÃ  shiper lá»«a Ä‘áº£o, shiper gian trÃ¡, shiper lá»«a tÃ¬nh, shiper chuáº©n anh liÃªm. cÅ©ng sáº½ khiá»ƒn bÃ  chá»§ ná»•i Ä‘iÃªn vÃ  tá»± há»§y. cÃ¡c mÃ n Ä‘á»‘i Ä‘Ã¡p cá»§a shiper vÃ  bÃ  chá»§ cÅ©ng Ä‘Æ°á»£c láº­p trÃ¬nh lá»±a chá»n Ä‘á»ƒ hiá»ƒu ráº±ng káº» gian nguy trang thÃ nh shiper sáº½ cÃ³ thá»ƒ lÃ m bÃ  chá»§ Ä‘iÃªn lÃªn vÃ¬ bá»‹ lá»«a vÃ  tá»± há»§y khiá»ƒn ngÆ°á»i chÆ¡i thua cuá»™c. Ä‘á»‘i vá»›i ngÆ°á»i chÆ¡i thÃ¬ Ä‘Ã¢y lÃ  mÃ n hard core Ä‘á»c thoáº¡i Ä‘á»ƒ nháº­n ra Ä‘oáº¡n Ä‘á»‘i thoáº¡i nÃ o sáº½ khiáº¿n mÃ¬nh thua cuá»™c nÃªn Ä‘Æ°á»£c bÃ i trÃ­ text cho nÃ³ bá»± hoáº·c cÃ³ mÃ u cÃ³ nháº­n biáº¿t lá» má» sáº½ cÃ³ káº¿t cá»¥c thua cuá»™c, vÃ  pháº§n trÄƒm bÃ  chá»§ cÃ³ nguy cÆ¡ ná»•i Ä‘iÃªn.
-Báº¡n Ä‘ang xÃ¢y dá»±ng má»™t trÃ² chÆ¡i mÃ´ phá»ng cá»±c ká»³ sÃ¢u sáº¯c, nÆ¡i cáº£m xÃºc cá»§a bÃ  chá»§ lÃ  trung tÃ¢m gameplay, vÃ  nhÃ¢n váº­t phá»¥ Ä‘Ã³ng vai trÃ² kÃ­ch hoáº¡t hoáº·c lÃ m dá»‹u cÃ¡c tÃ¬nh huá»‘ng dáº«n Ä‘áº¿n tháº¯ng hoáº·c thua. DÆ°á»›i Ä‘Ã¢y lÃ  báº£n thiáº¿t káº¿ má»Ÿ rá»™ng theo Ä‘Ãºng chiá»u sÃ¢u báº¡n Ä‘ang hÆ°á»›ng tá»›i:
+# DIEU KIEN THUA BOI NHAN VAT PHU
 
-ðŸ§â€â™€ï¸ NhÃ¢n váº­t phá»¥: PhÆ°á»£ng â€“ NhÃ¢n viÃªn háº­u sá»± kiá»‡n
-ðŸŽ­ Há»“ sÆ¡ nhÃ¢n váº­t
-Tá»‘t nghiá»‡p Ä‘áº¡i há»c máº§m non, giá»i chÄƒm sÃ³c tráº» em.
+🔍 Những điểm bạn có thể bổ sung hoặc cải thiện
+### 1. Tính cá nhân hóa người chơi
+Hiện tại người chơi vào vai nhân vật phụ, nhưng chưa có hệ thống phát triển cá nhân rõ ràng.
 
-KhÃ´ng biáº¿t may vÃ¡, thÆ°á»ng lÃ m há»ng mÃ¡y may, gÃ£y kim, khiáº¿n khÃ¡ch bá» Ä‘i.
+Gợi ý:
 
-Xuáº¥t hiá»‡n sau sá»± kiá»‡n bÃ  chá»§ bá»‹ táº¥n cÃ´ng vÃ  Ä‘Æ°á»£c cá»©u â†’ Ä‘á»‘i thá»§ bá»‹ thÃ¢n báº¡i danh liá»‡t.
+Thêm hệ thống kỹ năng riêng cho người chơi (ví dụ: giao tiếp, phân tích, cảm xúc).
 
-âš ï¸ CÆ¡ cháº¿ áº£nh hÆ°á»Ÿng
-TÄƒng Ä‘iá»ƒm cáº£m xÃºc tÃ­ch cá»±c khi phá»¥c vá»¥ khÃ¡ch cÃ³ tráº» em.
+Cho phép người chơi chọn phong cách hỗ trợ: tâm lý – chiến lược – xã hội.
 
-Giáº£m uy tÃ­n cá»­a tiá»‡m khi lÃ m há»ng mÃ¡y may â†’ khÃ¡ch bá» Ä‘i.
+### 2. Hệ thống phản hồi từ khách hàng
+Khách hàng hiện chỉ là yếu tố phụ, chưa có phản ứng rõ ràng.
 
-TÄƒng nguy cÆ¡ ná»•i Ä‘iÃªn náº¿u láº·p láº¡i lá»—i nhiá»u láº§n trong ngÃ y.
+Gợi ý:
 
-ðŸŽ® Gá»£i Ã½ gameplay
-NgÆ°á»i chÆ¡i pháº£i Ä‘Ã o táº¡o PhÆ°á»£ng hoáº·c chuyá»ƒn cÃ´ sang nhiá»‡m vá»¥ phÃ¹ há»£p.
+Thêm hệ thống đánh giá, phản hồi, review từ khách hàng.
 
-Náº¿u Ä‘á»ƒ cÃ´ tiáº¿p tá»¥c lÃ m há»ng mÃ¡y â†’ kÃ­ch hoáº¡t hÃ nh vi â€œná»•i Ä‘iÃªnâ€ cá»§a bÃ  chá»§.
+Mỗi hành vi của bà chủ hoặc nhân vật phụ sẽ ảnh hưởng đến điểm hài lòng.
 
-ðŸ§˜â€â™€ï¸ NhÃ³m ngÆ°á»i táº­p thá»ƒ dá»¥c â€“ TÃ¡c Ä‘á»™ng xÃ£ há»™i
-ðŸ•“ Thá»i Ä‘iá»ƒm xuáº¥t hiá»‡n
-4h sÃ¡ng má»—i ngÃ y táº¡i sÃ¢n trÆ°á»ng Ä‘áº¡i há»c, trÃ¹ng vá»›i giá» bÃ  chá»§ thá»©c dáº­y.
+### 3. Hệ thống nâng cấp cửa tiệm
+Cửa tiệm chưa có cơ chế nâng cấp hoặc thay đổi theo thời gian.
 
-ðŸŽ‰ Sá»± kiá»‡n Ä‘áº·c biá»‡t
-Sinh nháº­t tá»«ng ngÆ°á»i â†’ táº¡o mini-event.
+Gợi ý:
 
-Chia phe phÃ¡i â†’ ngÆ°á»i chÆ¡i pháº£i chá»n phe hoáº·c giá»¯ trung láº­p.
+Cho phép nâng cấp nội thất, trang trí, dịch vụ → ảnh hưởng đến cảm xúc bà chủ và khách.
 
-âš–ï¸ CÆ¡ cháº¿ áº£nh hÆ°á»Ÿng
-Lá»±a chá»n	Há»‡ quáº£
-Chá»n phe A	TÄƒng khÃ¡ch tá»« phe A, giáº£m tá»« phe B
-Chá»n phe B	NgÆ°á»£c láº¡i
-Giá»¯ trung láº­p	TÄƒng khÃ¡ch tá»« cáº£ hai phe, nhÆ°ng cáº§n xá»­ lÃ½ mÃ¢u thuáº«n
-âž¡ï¸ Táº¡o chiá»u sÃ¢u xÃ£ há»™i vÃ  chiáº¿n lÆ°á»£c lá»±a chá»n.
+Mỗi nâng cấp có thể mở khóa mini-game hoặc event mới.
 
-ðŸšš NhÃ¢n váº­t shipper â€“ TÃ¡c nhÃ¢n nguy hiá»ƒm
-ðŸ§‘â€ðŸ’¼ CÃ¡c loáº¡i shipper
-Loáº¡i	Äáº·c Ä‘iá»ƒm	TÃ¡c Ä‘á»™ng
-Shipper lá»«a Ä‘áº£o	Giao hÃ ng giáº£, khÃ´ng hÃ³a Ä‘Æ¡n	BÃ  chá»§ ná»•i Ä‘iÃªn, tá»± há»§y
-Shipper gian trÃ¡	Giao thiáº¿u, nÃ³i dá»‘i	Giáº£m uy tÃ­n, tÄƒng stress
-Shipper lá»«a tÃ¬nh	TÃ¡n tá»‰nh bÃ  chá»§, gÃ¢y rá»‘i cáº£m xÃºc	TÄƒng nguy cÆ¡ ná»•i Ä‘iÃªn báº¥t thÆ°á»ng
-Shipper â€œchuáº©n anh LiÃªmâ€	Giao Ä‘Ãºng, lá»‹ch sá»±	Giáº£m stress, tÄƒng Ä‘iá»ƒm uy tÃ­n
-ðŸŽ® CÆ¡ cháº¿ Ä‘á»‘i thoáº¡i
-Má»—i shipper cÃ³ Ä‘oáº¡n thoáº¡i riÃªng, ngÆ°á»i chÆ¡i pháº£i Ä‘á»c ká»¹ Ä‘á»ƒ nháº­n diá»‡n nguy cÆ¡.
+### 4. Tính ngẫu nhiên và biến động thị trường
+Game mô phỏng kinh doanh nên có yếu tố thị trường, cạnh tranh, biến động.
 
-CÃ¡c Ä‘oáº¡n thoáº¡i nguy hiá»ƒm sáº½ cÃ³:
+Gợi ý:
 
-Text lá»›n hÆ¡n
+Thêm hệ thống thời tiết, tin tức, xu hướng tiêu dùng → ảnh hưởng đến hành vi khách và bà chủ.
 
-MÃ u lá» má» cáº£nh bÃ¡o
+Có thể tích hợp bảng tin hoặc radio trong game để tạo chiều sâu.
 
-Thanh pháº§n trÄƒm nguy cÆ¡ ná»•i Ä‘iÃªn hiá»ƒn thá»‹
+### 5. Hệ thống lưu trữ và phân tích dữ liệu người chơi
+Gợi ý:
 
-âž¡ï¸ ÄÃ¢y lÃ  mÃ n chÆ¡i dáº¡ng hardcore tÃ¢m lÃ½, yÃªu cáº§u ngÆ°á»i chÆ¡i tinh Ã½ vÃ  pháº£n xáº¡ nhanh.
+Thêm nhật ký cảm xúc, hành vi, lựa chọn → giúp người chơi phân tích lại hành trình.
 
-ðŸ§© Gá»£i Ã½ cáº¥u trÃºc láº­p trÃ¬nh
-Module	Chá»©c nÄƒng
-CharacterProfileManager	Quáº£n lÃ½ há»“ sÆ¡ nhÃ¢n váº­t phá»¥
-EmotionImpactSystem	TÃ­nh toÃ¡n áº£nh hÆ°á»Ÿng cá»§a tá»«ng hÃ nh vi lÃªn bÃ  chá»§
-DialogueRiskAnalyzer	PhÃ¢n tÃ­ch Ä‘oáº¡n thoáº¡i shipper â†’ cáº£nh bÃ¡o nguy cÆ¡
-SocialFactionSystem	Quáº£n lÃ½ phe phÃ¡i, sinh nháº­t, áº£nh hÆ°á»Ÿng khÃ¡ch hÃ ng
-EventTriggerEngine	KÃ­ch hoáº¡t sá»± kiá»‡n theo thá»i gian hoáº·c hÃ nh vi
+Có thể dùng để mở khóa ending đặc biệt hoặc phản công đối thủ.
+
+### 6. Tính năng cộng đồng hoặc multiplayer nhẹ
+Nếu có điều kiện, có thể mở rộng thành game có yếu tố cộng đồng.
+
+Gợi ý:
+
+Người chơi chia sẻ cửa tiệm, nhân vật, hoặc mini-game với nhau.
+
+Tổ chức sự kiện cộng đồng (ví dụ: hội chợ, thi thiết kế tiệm).
+✅ Cấu hình tổng quan
+Thành phần	Thông tin	Đánh giá
+CPU	Intel Core i5-12400F (12 luồng, ~2.5GHz)	Rất tốt cho lập trình và chạy game
+RAM	16GB	Đáp ứng tốt cho Unity, Unreal, Blender
+GPU	NVIDIA GeForce GTX 1650 (4GB VRAM, 12GB tổng)	Đủ mạnh để xử lý đồ họa 3D cơ bản
+Hệ điều hành	Windows 11 Pro 64-bit	Tương thích tốt với các công cụ phát triển
+DirectX	Phiên bản 12	Hỗ trợ đầy đủ cho các engine hiện đại
+Ổ cứng	SSD 500GB + HDD 2TB + SSD phụ	Dư sức lưu trữ và cài đặt phần mềm nặng
+🎮 Có thể dùng các công cụ sau để phát triển game:
+Mục đích	Công cụ đề xuất
+Game Engine	Unity (miễn phí bản Personal), Godot (nhẹ, open-source)
+Thiết kế đồ họa 2D/3D	Blender, GIMP, Piskel
+Lập trình	Visual Studio Code, Rider (nếu dùng C#)
+Quản lý dự án	GitHub, Trello
+Phát hành game	itch.io, Steam (nếu nâng cấp sau này)
+💡 Gợi ý cho bạn:
+Với ngân sách 500k VND, bạn có thể bắt đầu bằng Godot (miễn phí, nhẹ, dễ học).
+
+Dùng asset miễn phí từ Kenney.nl hoặc OpenGameArt.org..
+
+Tập trung làm game 2D đơn giản trước (platformer, puzzle, clicker).
+
+Nếu cần, mình có thể giúp bạn lên kế hoạch học và phát triển game trong 30 ngày.
+
+Bạn có muốn mình gợi ý lộ trình học theo tuần không?
+
+tôi đã cài photoshop và AI
+Tuyệt vời luôn! 💥 Với việc bạn đã cài đặt cả Photoshop và Illustrator (AI), bạn đang có trong tay hai công cụ cực kỳ mạnh để thiết kế đồ họa cho game. Dưới đây là cách tận dụng chúng hiệu quả trong quy trình phát triển game:
+
+🎨 Photoshop – Thiết kế đồ họa 2D & UI
+Tạo nhân vật, background, icon: Vẽ pixel art hoặc tranh vẽ tay rồi xuất ra PNG.
+
+Thiết kế giao diện người dùng (UI): Nút bấm, khung thoại, menu, thanh máu…
+
+Tạo texture cho game 3D: Dùng brush, layer và hiệu ứng để tạo texture đẹp mắt.
+
+Xuất file: PNG (có nền trong suốt), JPG (nền cố định), hoặc PSD để chỉnh sửa sau.
+
+✒️ Illustrator – Thiết kế vector & logo
+Thiết kế logo game, biểu tượng, HUD: Vector sắc nét, dễ co giãn.
+
+Tạo nhân vật dạng vector: Phù hợp với game 2D kiểu hoạt hình.
+
+Thiết kế bản đồ, sơ đồ, biểu tượng kỹ năng: Dễ chỉnh sửa và xuất sang SVG hoặc PNG.
+
+💡 Gợi ý workflow kết hợp
+Vẽ nhân vật hoặc UI bằng Illustrator → xuất PNG/SVG.
+
+Chỉnh màu, hiệu ứng, ánh sáng bằng Photoshop.
+
+Đưa vào game engine (Unity/Godot) để tích hợp.
+🎮 Cơ chế gameplay: Người chơi vào vai nhân vật phụ
+🧍‍♀️ Nhân vật Phượng – Nhân viên hậu sự kiện
+Vai trò người chơi: Hỗ trợ bà chủ, tránh gây lỗi.
+
+Nhiệm vụ:
+
+Không làm gãy kim, hư máy may.
+
+Học kỹ năng mới qua mini-game (ví dụ: sửa máy may, phục vụ khách).
+
+Thưởng: Nếu Phượng làm tốt → tăng uy tín, giảm nguy cơ nổi điên của bà chủ.
+
+🚚 Cơ chế Gacha nhập hàng – Shipper chuẩn “Anh Liêm”
+Thành phần	Mô tả
+Shipper VIP	“Anh Liêm” – giao hàng đúng, lịch sự, hàng xịn
+Cách chọn	Tung xí ngầu hoặc chơi mini-game (ví dụ: đoán đúng hộp hàng, phản xạ nhanh)
+Phần thưởng	Nhận hàng chất lượng cao, tăng điểm uy tín
+Rủi ro	Nếu chọn nhầm shipper gian → bà chủ nổi điên, thua cuộc
+➡️ Đây là cơ chế gacha nhập hàng, tạo cảm giác hồi hộp và chiến lược.
+
+🧘‍♀️ Nhóm tập thể dục – Chuyển cảnh tự động
+Thời điểm: 4h sáng mỗi ngày
+
+Cơ chế: Dùng cutscene đơn giản để chuyển cảnh → giảm tải lập trình
+
+Tác động: Tăng điểm tâm lý cho bà chủ nếu nhóm đoàn kết
+
+🧍‍♀️ Nhân vật Diệp – Kẻ gây rối trong nhóm thể dục
+Cơ chế	Mô tả
+Tác động	Gây chia rẽ phe phái trong nhóm thể dục → ảnh hưởng đến lượng khách
+Mini-game	“Tìm kẻ nói dối” – người chơi phải điều tra, đối thoại, chọn đúng người
+Kết quả:
+Chọn đúng → giữ đoàn kết, tăng khách
+
+Chọn sai → mất khách từ một phe, tăng nguy cơ thua
+
+➡️ Đây là cơ chế chơi người người, tạo chiều sâu xã hội và tương tác.
+
+🧠 Cơ chế chống thua cuộc mặc định
+Nhân vật phụ	Cách chống thua
+Phượng	Làm tốt công việc, học kỹ năng
+Shipper	Chọn đúng qua gacha hoặc mini-game
+Nhóm thể dục	Giữ đoàn kết, chọn phe hoặc trung lập
+Diệp	Phát hiện và xử lý kẻ gây rối đúng cách
+🧩 Gợi ý cấu trúc lập trình
+### Module	Chức năng
+SubCharacterController	Quản lý hành vi nhân vật phụ
+GachaSystem	Tung xí ngầu, chọn shipper VIP
+MiniGameManager	Điều khiển trò chơi nhỏ (sửa máy, tìm kẻ nói dối…)
+CutsceneEngine	Tự động chuyển cảnh nhóm thể dục
+FactionImpactSystem	Tính toán ảnh hưởng phe phái đến khách hàng
+EmotionRiskMeter	Hiển thị nguy cơ nổi điên của bà chủ theo hành vi người chơi
+thiết kế tiếp giai đoạn khiến cho đổi thủ nổi điên và giành chiến thắng, khi bà chủ nổi điên nhiều lần và có khả năng đoạn hội thoại chỉ trích đối thủ nhiều thì sẽ có một dạng chơi cho người chơi chơi là nhạc rap bắt người chơi phải bấm dấu cách để perfect liên tiếp, khi đạt mốc nhiều lẫn sẽ làm bà chủ bình tĩnh và đối thủ sẽ nổi điên. đây là cơ chế chống trả lại khi A.I đối thủ tấn công khiêu khích. bà chủ sẽ nghe nhạc và nhảy bằng các phím bấm lên xuống trái phải. điều kiện thua cuộc là người chơi bấm sai phím làm mất chuỗi perfect, nếu đủ 10 lần perfect thì sẽ giảm 1/2 độ nổi điên, và cảnh cutsense đối thủ nổi điên nhảy và đánh bà chủ và bị công an bắt và bà chủ giành chiến thắng.
+Tuyệt phẩm! Bạn vừa mở rộng gameplay sang một chiều hướng cực kỳ sáng tạo: chuyển từ mô phỏng tâm lý sang hành động âm nhạc, nơi người chơi dùng kỹ năng nhịp điệu để giải tỏa cảm xúc bà chủ và phản công đối thủ. Dưới đây là bản thiết kế chi tiết cho giai đoạn này:
+
+🎤 Giai đoạn phản công: "Rap Battle – Giải tỏa cảm xúc"
+🧨 Kích hoạt sự kiện
+Khi bà chủ đã nổi điên nhiều lần và có đoạn hội thoại chỉ trích đối thủ xuất hiện liên tục.
+
+AI đối thủ bắt đầu khiêu khích công khai → kích hoạt chế độ Rap Battle.
+
+🎮 Cơ chế chơi: Nhịp điệu & phản xạ
+🎧 Giao diện chơi
+Bà chủ bật nhạc rap để giải tỏa.
+
+Người chơi phải:
+
+Bấm phím cách (Space) đúng nhịp để đạt “Perfect”.
+
+Bấm phím mũi tên (↑ ↓ ← →) để điều khiển bà chủ nhảy theo beat.
+
+🕹️ Luật chơi
+Điều kiện	Hệ quả
+Bấm đúng 10 lần liên tiếp “Perfect”	Giảm 50% độ nổi điên của bà chủ
+Bấm sai hoặc mất chuỗi	Bà chủ vẫn nổi điên → nguy cơ thua cuộc
+Bấm đúng toàn bộ đoạn rap	Kích hoạt cutscene chiến thắng
+🎬 Cutscene chiến thắng
+Đối thủ nổi điên, mất kiểm soát → nhảy loạn xạ, lao vào tấn công bà chủ.
+
+Bà chủ bình tĩnh né đòn, không phản ứng.
+
+Công an xuất hiện, bắt đối thủ vì gây rối trật tự.
+
+Bà chủ giành chiến thắng, danh tiếng tăng vọt, khách kéo đến đông.
+
+🧩 Cấu trúc lập trình đề xuất
+### Module	Chức năng
+EmotionThresholdManager	Theo dõi số lần nổi điên và kích hoạt sự kiện rap
+RhythmGameEngine	Điều khiển gameplay nhịp điệu: phím cách + mũi tên
+PerfectChainTracker	Đếm chuỗi perfect, tính toán giảm stress
+CutsceneTrigger	Kích hoạt hoạt cảnh khi đủ điều kiện thắng
+DialogueHeatMeter	Phân tích đoạn hội thoại chỉ trích để xác định thời điểm phản công
+💡 Gợi ý mở rộng
+Có thể thêm nhiều bài rap với độ khó khác nhau.
+
+Mỗi bài có chủ đề riêng: “Tự tin”, “Phản công”, “Tha thứ”, “Chiến thắng”.
+
+Người chơi có thể mở khóa bài mới khi đạt thành tựu.
+mẹ tôi có một xích mich của cửa hàng đối diện, là đối thủ cạnh tranh, tranh giành khách hàng với nhau, tạo một điều kiện thắng thông thường, điều kiện thua thông thường , điều kiện thắng đặc biệt, điều kiện thua đặc biệt ( thua trong bất kỳ trường hợp nào), thắng đặc biệt sẽ kích hoạt trong điều kiện tự nhiên mà trường hợp này đơn giản lúc nào cũng sẽ bị bỏ qua hoặc phớt lờ trước mắt người chơi mà người chơi k hề nhận ra.
+🧩 Các điều kiện trong trò chơi
+✅ Điều kiện thắng thông thường
+Người chơi (mẹ bạn) thắng khi đạt được một trong các mục tiêu sau:
+
+Doanh thu vượt đối thủ trong 30 ngày liên tiếp.
+
+Số lượng khách hàng trung thành đạt mốc 100 người.
+
+Nhận được đánh giá 5 sao từ ít nhất 50 khách hàng.
+
+❌ Điều kiện thua thông thường
+Người chơi thua khi:
+
+Doanh thu giảm liên tục trong 14 ngày.
+
+Bị mất hơn 50% khách hàng vào tay đối thủ.
+
+Bị kiểm tra và phạt do vi phạm quy định vệ sinh hoặc chất lượng.
+
+🌟 Điều kiện thắng đặc biệt (ẩn)
+Kích hoạt khi người chơi vô tình thực hiện một hành động “tự nhiên” như:
+
+Tặng một món quà nhỏ cho khách hàng mà không ghi nhận trong hệ thống.
+
+Giúp đỡ một khách hàng lớn tuổi hoặc trẻ em mà không mong lợi ích.
+
+Dọn rác trước cửa hàng vào sáng sớm.
+
+➡️ Khi điều kiện này được kích hoạt, hệ thống sẽ bí mật cộng điểm uy tín, và nếu tích lũy đủ, người chơi sẽ tự động thắng mà không biết lý do cụ thể.
+
+⚠️ Những hành động này thường bị “phớt lờ” trong gameplay — không có hiệu ứng tức thì, nhưng lại là chìa khóa chiến thắng.
+
+💀 Điều kiện thua đặc biệt (thua trong mọi trường hợp)
+Người chơi thua ngay lập tức nếu:
+
+Cố tình phá hoại cửa hàng đối thủ.
+
+Gây gổ hoặc xúc phạm khách hàng.
+
+Sử dụng chiêu trò gian lận (ví dụ: bán hàng giả, lừa đảo).
+
+➡️ Dù đang thắng thế, nếu vi phạm một trong các điều này, trò chơi sẽ kết thúc ngay lập tức với kết quả thua.
+
+🎮 Gợi ý gameplay
+Bạn có thể xây dựng trò chơi này như một game mô phỏng quản lý cửa hàng (tycoon).
+
+Các điều kiện đặc biệt nên được giấu kỹ, chỉ hiện ra trong nhật ký hệ thống hoặc sau khi kết thúc game.
+
+Có thể thêm yếu tố “karma” hoặc “uy tín” để phản ánh các hành động tốt/xấu.
+tiếp theo là xây dựng tới nhân vật phụ cũng khiến bà chủ dễ nổi điên ở nhiều mức khác nhau, nhân vật nhân viên tên là phượng, một người giỏi chăm sóc và giảng giải dễ hiểu cho trẻ con với bằng tốt nghiệm mầm non đại học nhưng không biết may vá và thường làm cho khách hàng bỏ đi, hay làm hỏng máy may và làm hư kim máy may, khiến cho khách hàng bỏ đi. cơ chế này sẽ xuất hiện thời điểm sau sự kiện đặc biệt ở cảnh mà đối thủ đã bị đánh bại khi bà chủ bị tấn công trong tiệm và được cứu, khiến danh tiếng của đối thủ trở thành thân bại danh liệt. nhân vật phụ tiếp theo là một nhóm người tập thể dục vào buổi sáng thời điểm bà chủ thức dậy là 4h sáng và tập thể dục ở trường đại học sân tập trường đại học. các nhân vật phụ này có một lốc các sự kiện chủ yếu là sinh nhật của từng người và chia phe phái khiến bà chủ phải có khoảnh khắc lựa chọn, nếu người chơi chọn một phe thì lượng khách hàng cũng sẽ thay đổi theo, dẫn đến khả năng thua cuộc cao hoặc thấp, nếu người chọn cho bà chủ trung lập, sẽ lấy được khách của cả 2 phe. khiến trò chơi trở nên dễ hơn. đây là luồng xây dựng chiều sâu của game bởi tác động lên khách hàng của nhân vật phụ . tiếp theo nhân vật shiper thường lui tới để nhập hàng cho cửa tiệm, có một số dạng là là shiper lừa đảo, shiper gian trá, shiper lừa tình, shiper chuẩn anh liêm. cũng sẽ khiển bà chủ nổi điên và tự hủy. các màn đối đáp của shiper và bà chủ cũng được lập trình lựa chọn để hiểu rằng kẻ gian nguy trang thành shiper sẽ có thể làm bà chủ điên lên vì bị lừa và tự hủy khiển người chơi thua cuộc. đối với người chơi thì đây là màn hard core đọc thoại để nhận ra đoạn đối thoại nào sẽ khiến mình thua cuộc nên được bài trí text cho nó bự hoặc có màu có nhận biết lờ mờ sẽ có kết cục thua cuộc, và phần trăm bà chủ có nguy cơ nổi điên.
+Bạn đang xây dựng một trò chơi mô phỏng cực kỳ sâu sắc, nơi cảm xúc của bà chủ là trung tâm gameplay, và nhân vật phụ đóng vai trò kích hoạt hoặc làm dịu các tình huống dẫn đến thắng hoặc thua. Dưới đây là bản thiết kế mở rộng theo đúng chiều sâu bạn đang hướng tới:
+
+🧍‍♀️ Nhân vật phụ: Phượng – Nhân viên hậu sự kiện
+🎭 Hồ sơ nhân vật
+Tốt nghiệp đại học mầm non, giỏi chăm sóc trẻ em.
+
+Không biết may vá, thường làm hỏng máy may, gãy kim, khiến khách bỏ đi.
+
+Xuất hiện sau sự kiện bà chủ bị tấn công và được cứu → đối thủ bị thân bại danh liệt.
+
+⚠️ Cơ chế ảnh hưởng
+Tăng điểm cảm xúc tích cực khi phục vụ khách có trẻ em.
+
+Giảm uy tín cửa tiệm khi làm hỏng máy may → khách bỏ đi.
+
+Tăng nguy cơ nổi điên nếu lặp lại lỗi nhiều lần trong ngày.
+
+🎮 Gợi ý gameplay
+Người chơi phải đào tạo Phượng hoặc chuyển cô sang nhiệm vụ phù hợp.
+
+Nếu để cô tiếp tục làm hỏng máy → kích hoạt hành vi “nổi điên” của bà chủ.
+
+🧘‍♀️ Nhóm người tập thể dục – Tác động xã hội
+🕓 Thời điểm xuất hiện
+4h sáng mỗi ngày tại sân trường đại học, trùng với giờ bà chủ thức dậy.
+
+🎉 Sự kiện đặc biệt
+Sinh nhật từng người → tạo mini-event.
+
+Chia phe phái → người chơi phải chọn phe hoặc giữ trung lập.
+
+⚖️ Cơ chế ảnh hưởng
+Lựa chọn	Hệ quả
+Chọn phe A	Tăng khách từ phe A, giảm từ phe B
+Chọn phe B	Ngược lại
+Giữ trung lập	Tăng khách từ cả hai phe, nhưng cần xử lý mâu thuẫn
+➡️ Tạo chiều sâu xã hội và chiến lược lựa chọn.
+
+🚚 Nhân vật shipper – Tác nhân nguy hiểm
+🧑‍💼 Các loại shipper
+Loại	Đặc điểm	Tác động
+Shipper lừa đảo	Giao hàng giả, không hóa đơn	Bà chủ nổi điên, tự hủy
+Shipper gian trá	Giao thiếu, nói dối	Giảm uy tín, tăng stress
+Shipper lừa tình	Tán tỉnh bà chủ, gây rối cảm xúc	Tăng nguy cơ nổi điên bất thường
+Shipper “chuẩn anh Liêm”	Giao đúng, lịch sự	Giảm stress, tăng điểm uy tín
+🎮 Cơ chế đối thoại
+Mỗi shipper có đoạn thoại riêng, người chơi phải đọc kỹ để nhận diện nguy cơ.
+
+Các đoạn thoại nguy hiểm sẽ có:
+
+Text lớn hơn
+
+Màu lờ mờ cảnh báo
+
+Thanh phần trăm nguy cơ nổi điên hiển thị
+
+➡️ Đây là màn chơi dạng hardcore tâm lý, yêu cầu người chơi tinh ý và phản xạ nhanh.
+
+🧩 Gợi ý cấu trúc lập trình
+### Module	Chức năng
+CharacterProfileManager	Quản lý hồ sơ nhân vật phụ
+EmotionImpactSystem	Tính toán ảnh hưởng của từng hành vi lên bà chủ
+DialogueRiskAnalyzer	Phân tích đoạn thoại shipper → cảnh báo nguy cơ
+SocialFactionSystem	Quản lý phe phái, sinh nhật, ảnh hưởng khách hàng
+EventTriggerEngine	Kích hoạt sự kiện theo thời gian hoặc hành vi
+
+
