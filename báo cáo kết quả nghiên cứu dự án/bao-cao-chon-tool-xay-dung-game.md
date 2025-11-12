@@ -36,9 +36,9 @@ Hiệu ứng âm thanh, nhạc nền phát triển riêng cho các phân đoạn
 Công cụ đề xuất (chia theo từng hạng mục)
 A. Game Engine 3D – Hạ tầng lõi
 Engine	Ưu điểm nổi bật	Chi phí sử dụng	Hỗ trợ 3D	AI/mô phỏng NPC	Xuất bản đa nền tảng
-Unity	Phổ biến nhất, tài liệu đầy đủ, tích hợp Asset Store mạnh, dễ dùng với dự án nhỏ/mới bắt đầu	Miễn phí (Personal) hoặc $200/tháng gói Pro (không bắt buộc với nhóm nhỏ/thấp doanh thu)	Xuất sắc	Có: ML-Agents, thư viện AI phong phú	PC, Mac, Linux, Android, iOS, WebGL...
-Godot 4	Miễn phí, mã nguồn mở, nhẹ, tài liệu rộng, dễ custom, rất thân thiện với nhóm nhỏ	Miễn phí	Đủ tốt (gần tiệm cận Unity)	Có (GDScript & C# cho AI scripting)	PC, Mac, Linux, Android, iOS, Web...
-Unreal Engine 5	Siêu mạnh về đồ họa, Editor cực tốt, hỗ trợ Blueprint cho AI, miễn phí trước 1 triệu USD doanh thu	Miễn phí (dưới doanh thu 1 triệu USD)	Xuất sắc	Blueprint AI/Behaviour Tree	PC, Console, Mobile, VR/AR
+| Unity | Phổ biến nhất, tài liệu đầy đủ, tích hợp Asset Store mạnh, dễ dùng với dự án nhỏ/mới bắt đầu	Miễn phí (Personal) hoặc $200/tháng gói Pro (không bắt buộc với nhóm nhỏ/thấp doanh thu)	Xuất sắc	Có: ML-Agents, thư viện AI phong phú	PC, Mac, Linux, Android, iOS, WebGL...
+| Godot 4 | Miễn phí, mã nguồn mở, nhẹ, tài liệu rộng, dễ custom, rất thân thiện với nhóm nhỏ	Miễn phí	Đủ tốt (gần tiệm cận Unity)	Có (GDScript & C# cho AI scripting)	PC, Mac, Linux, Android, iOS, Web...
+| Unreal Engine 5 | Siêu mạnh về đồ họa, Editor cực tốt, hỗ trợ Blueprint cho AI, miễn phí trước 1 triệu USD doanh thu	Miễn phí (dưới doanh thu 1 triệu USD)	Xuất sắc	Blueprint AI/Behaviour Tree	PC, Console, Mobile, VR/AR
 Phân tích lựa chọn:
 
 Unity và Godot là hai lựa chọn hợp lý nhất cho nhóm nhỏ, tài liệu phong phú, dễ tìm cộng đồng hỗ trợ, nhiều asset miễn phí, xuất bản dễ dàng cho đa nền tảng (PC, mobile, web).
@@ -77,7 +77,7 @@ C. Công cụ tạo đối thoại – hệ thống cảm xúc kịch bản và 
 Tên công cụ	Hỗ trợ nền tảng	Điểm mạnh	Ghi chú sử dụng
 Yarn Spinner	Unity, Godot (ủy thác)	Script hội thoại phân nhánh, logic state, hỗ trợ localization, thẻ điều kiện, lưu trạng thái, tag cảm xúc	Dùng để lập trình hệ thống tự “động viên”, động viên NPC, cắt cảnh, dialogue-based branching ending
 Ink (inkle)	Unity, Unreal, Godot	Mô hình kịch bản hội thoại phân nhánh sâu, kịch bản phản ứng nâng cao kiểu “state machine”	Hợp với event story-driven, reflect cảm xúc sống động
-NodeCanvas/Behavior Designer	Unity	Visual scripting cho cây hành vi (giao tiếp AI/câu thoại điều kiện)	Đặc biệt mạnh mẽ để auto hóa NPC sequence
+NodeCanvas/Behavior Designer	| Unity | Visual scripting cho cây hành vi (giao tiếp AI/câu thoại điều kiện)	Đặc biệt mạnh mẽ để auto hóa NPC sequence
 Các công cụ này giúp phân tách rõ composer/narrative writer với coder, từ đó xây dựng nhanh hệ thống nhiều lựa chọn hội thoại, cảm xúc, unlock hành động/event cảm xúc dựa trên tiến trình.
 
 D. Công cụ mô hình 3D, rigging – animation nhân vật
@@ -105,20 +105,20 @@ LMMS/FL Studio (demo)	Mix, synth, effect, sequencer, tạo beat/midi nhanh	LMMS:
 Freesound.org, OpenGameArt	Kho hiệu ứng, sample nhạc nền miễn phí	Free	Giảm thời gian tìm/ký âm cho scene phụ	
 G. Framework/template mini-game nhịp điệu
 Công cụ/Plug-in	Nền tảng	Đặc điểm	Ghi chú
-Unity Rhythm Music Template	Unity	Bộ template hoàn chỉnh cho musical rhythm game (quản lý track, scoring, effect, auto sync MIDI/beat)	Plug & Play cực nhanh, custom dễ, nền tảng tốt cho mini-game rap battle
-Rhythm Game Starter	Unity	Sequence editor, import MIDI, note hệ thống (tap, hold, swipe kiểu FNF)	Có sẵn các loại note, effect UI cho nhịp điệu
-RhythmGameUtilities	Godot, Unity	Bộ util C# - GDScript, hỗ trợ parsing chart, MIDI note, sync beat/gameplay event	Linh hoạt, phù hợp Godot hoặc Unity khi tự build mini-game nhịp điệu cơ bản
-itch.io Rhythm Template	Unity	Bộ khung miễn phí, mặc định cho nhịp điệu snackbar/tap	Nhanh prototype game nhỏ
+Unity Rhythm Music Template	| Unity | Bộ template hoàn chỉnh cho musical rhythm game (quản lý track, scoring, effect, auto sync MIDI/beat)	Plug & Play cực nhanh, custom dễ, nền tảng tốt cho mini-game rap battle
+Rhythm Game Starter	| Unity | Sequence editor, import MIDI, note hệ thống (tap, hold, swipe kiểu FNF)	Có sẵn các loại note, effect UI cho nhịp điệu
+RhythmGameUtilities	Godot, | Unity | Bộ util C# - GDScript, hỗ trợ parsing chart, MIDI note, sync beat/gameplay event	Linh hoạt, phù hợp Godot hoặc Unity khi tự build mini-game nhịp điệu cơ bản
+itch.io Rhythm Template	| Unity | Bộ khung miễn phí, mặc định cho nhịp điệu snackbar/tap	Nhanh prototype game nhỏ
 Godot RhythmNotifier	Godot	Gắn event theo nhịp nhạc (pattern, beat trigger)	Tích hợp nhanh cho phản ứng cảm xúc mỗi khi beat chuyển đoạn
 H. Hệ thống gacha – mini-game nhập hàng
 Công cụ	Engine hỗ trợ	Tính năng	Ghi chú sử dụng
-Unity Modular Gacha System	Unity	Custom rarity pool, pity, multi-pull, guarantee rate	Có giao diện inspector đầy đủ, prefab UI sẵn sàng, code mở rộng; cắm vào bất kỳ hệ thống quay thưởng nào (card, hàng hóa) trong game
-Gacha System Package	Unity	Script object item, custom rarity, integrate button UI, code đơn giản	Dễ import, bảo trì lâu dài vì code mở, thích hợp indie
+Unity Modular Gacha System	| Unity | Custom rarity pool, pity, multi-pull, guarantee rate	Có giao diện inspector đầy đủ, prefab UI sẵn sàng, code mở rộng; cắm vào bất kỳ hệ thống quay thưởng nào (card, hàng hóa) trong game
+Gacha System Package	| Unity | Script object item, custom rarity, integrate button UI, code đơn giản	Dễ import, bảo trì lâu dài vì code mở, thích hợp indie
 itch.io gacha assets	Unity, Godot	Asset UI, ảnh mẫu vòng quay, portrait, background	Tiết kiệm thời gian build visuals, asset free
 I. Thiết kế UI/UX cho game
 Công cụ	Nền tảng	Chức năng nổi bật	Ưu điểm	Chi phí
 Figma	Web, PC	Mockup layout UI, prototyping, library asset, plugin wireframe/board	Làm prototype siêu nhanh, luạ bề mặt, chuyển sang engine bằng plugin	Free (gói community)
-Unity UI Toolkit	Unity	Hệ thống xây dựng UI hiện đại, data-binding, animation UI, multi-language	Thuận tiện cho teamwork, tối ưu performance, phối hợp dễ	Free (mặc định Unity)
+Unity UI Toolkit	| Unity | Hệ thống xây dựng UI hiện đại, data-binding, animation UI, multi-language	Thuận tiện cho teamwork, tối ưu performance, phối hợp dễ	Free (mặc định Unity)
 Godot UI System	Godot	Scene-based UI, animation, flexible layout	Quản lý resource chuyên biệt, binding data dễ	Free
 J. Quản lý dự án & cộng tác nhóm nhỏ
 PM Tool	Đặc điểm nổi bật	Giá gói free	Điểm mạnh
@@ -243,3 +243,4 @@ Chọn lộ trình “prototype sớm, iterate nhanh, ra demo trên itch.io – 
 Việc hội tụ các công nghệ AI, workflow tối ưu asset/animation – pipeline open source – cùng quy trình build/test/iterate chuẩn hóa, đang tạo ra cơ hội chưa từng có cho những cá nhân/nhóm nhỏ tận dụng thế mạnh indie: dám thử nghiệm – linh hoạt học hỏi – sáng tạo lối chơi mới.
 
 Lời khuyên cuối: Hãy bắt đầu từ một loop gameplay cốt lõi, giữ lộ trình gọn nhẹ, chú trọng test thực tế, dùng tối đa các công cụ miễn phí và chỉ đầu tư nhiều hơn khi bạn đã có kết quả sớm từ cộng đồng. Sự kiên trì, sáng tạo cùng cách tận dụng thông minh các nguồn lực mở là yếu tố quyết định thành công trong hành trình phát triển game mô phỏng kinh doanh – tâm lý 3D độc lập!
+
