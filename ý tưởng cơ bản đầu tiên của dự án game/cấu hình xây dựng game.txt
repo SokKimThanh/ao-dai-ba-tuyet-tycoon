@@ -1,0 +1,51 @@
+✅ Cấu hình tổng quan
+Thành phần	Thông tin	Đánh giá
+CPU	Intel Core i5-12400F (12 luồng, ~2.5GHz)	Rất tốt cho lập trình và chạy game
+RAM	16GB	Đáp ứng tốt cho Unity, Unreal, Blender
+GPU	NVIDIA GeForce GTX 1650 (4GB VRAM, 12GB tổng)	Đủ mạnh để xử lý đồ họa 3D cơ bản
+Hệ điều hành	Windows 11 Pro 64-bit	Tương thích tốt với các công cụ phát triển
+DirectX	Phiên bản 12	Hỗ trợ đầy đủ cho các engine hiện đại
+Ổ cứng	SSD 500GB + HDD 2TB + SSD phụ	Dư sức lưu trữ và cài đặt phần mềm nặng
+🎮 Có thể dùng các công cụ sau để phát triển game:
+Mục đích	Công cụ đề xuất
+Game Engine	Unity (miễn phí bản Personal), Godot (nhẹ, open-source)
+Thiết kế đồ họa 2D/3D	Blender, GIMP, Piskel
+Lập trình	Visual Studio Code, Rider (nếu dùng C#)
+Quản lý dự án	GitHub, Trello
+Phát hành game	itch.io, Steam (nếu nâng cấp sau này)
+💡 Gợi ý cho bạn:
+Với ngân sách 500k VND, bạn có thể bắt đầu bằng Godot (miễn phí, nhẹ, dễ học).
+
+Dùng asset miễn phí từ Kenney.nl hoặc OpenGameArt.org..
+
+Tập trung làm game 2D đơn giản trước (platformer, puzzle, clicker).
+
+Nếu cần, mình có thể giúp bạn lên kế hoạch học và phát triển game trong 30 ngày.
+
+Bạn có muốn mình gợi ý lộ trình học theo tuần không?
+
+tôi đã cài photoshop và AI
+Tuyệt vời luôn! 💥 Với việc bạn đã cài đặt cả Photoshop và Illustrator (AI), bạn đang có trong tay hai công cụ cực kỳ mạnh để thiết kế đồ họa cho game. Dưới đây là cách tận dụng chúng hiệu quả trong quy trình phát triển game:
+
+🎨 Photoshop – Thiết kế đồ họa 2D & UI
+Tạo nhân vật, background, icon: Vẽ pixel art hoặc tranh vẽ tay rồi xuất ra PNG.
+
+Thiết kế giao diện người dùng (UI): Nút bấm, khung thoại, menu, thanh máu…
+
+Tạo texture cho game 3D: Dùng brush, layer và hiệu ứng để tạo texture đẹp mắt.
+
+Xuất file: PNG (có nền trong suốt), JPG (nền cố định), hoặc PSD để chỉnh sửa sau.
+
+✒️ Illustrator – Thiết kế vector & logo
+Thiết kế logo game, biểu tượng, HUD: Vector sắc nét, dễ co giãn.
+
+Tạo nhân vật dạng vector: Phù hợp với game 2D kiểu hoạt hình.
+
+Thiết kế bản đồ, sơ đồ, biểu tượng kỹ năng: Dễ chỉnh sửa và xuất sang SVG hoặc PNG.
+
+💡 Gợi ý workflow kết hợp
+Vẽ nhân vật hoặc UI bằng Illustrator → xuất PNG/SVG.
+
+Chỉnh màu, hiệu ứng, ánh sáng bằng Photoshop.
+
+Đưa vào game engine (Unity/Godot) để tích hợp.

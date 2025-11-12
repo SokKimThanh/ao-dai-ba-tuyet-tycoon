@@ -1,0 +1,68 @@
+🧭 MỤC TIÊU TUYẾN GAME THỨ NHẤT
+Thể loại: Mô phỏng cảm xúc – kinh doanh – xã hội
+
+Tuyến truyện: Người chơi vào vai Phượng – nhân viên phụ trợ, giúp bà chủ vượt qua căng thẳng trong ngày đầu tiên mở tiệm sau khi đối thủ bị thân bại danh liệt.
+
+Thời lượng chơi: 10–15 phút (demo)
+
+Số lượng cảnh: 3 cảnh chính + 1 mini-game + 1 đoạn hội thoại phân nhánh
+
+Chất lượng tối thiểu: Đảm bảo hình ảnh rõ ràng, âm thanh phù hợp, lời thoại có cảm xúc, gameplay có phản hồi
+
+🧩 CẤU TRÚC XÂY DỰNG TỪ TRÊN XUỐNG DƯỚI
+1. 🎮 Game Design – Thiết kế tổng thể
+Thành phần	Mô tả
+Core Loop	Quan sát bà chủ → hỗ trợ → mini-game → kiểm tra hậu quả
+Mục tiêu	Giữ bà chủ bình tĩnh trong ngày đầu tiên mở tiệm
+Điều kiện thắng	Bà chủ không nổi điên, khách không bỏ đi
+Điều kiện thua	Bà chủ nổi điên 2 lần → đập bàn, mất khách
+Mini-game	Sửa máy may bị hỏng do Phượng làm sai
+Phân nhánh	Người chơi chọn cách xử lý lỗi: xin lỗi, đổ lỗi, im lặng
+2.✍️ Narrative – Cốt truyện & lời thoại
+Thành phần	Mô tả
+Bối cảnh	Sau khi đối thủ bị bắt, bà chủ mở lại tiệm với tâm trạng bất ổn
+Nhân vật	Phượng (người chơi), bà chủ, khách hàng đầu tiên
+Lời thoại	3 đoạn chính: mở tiệm, sự cố máy may, phản ứng của bà chủ
+Phân nhánh	Nếu người chơi chọn lời thoại đúng → bà chủ bình tĩnh<br>Nếu sai → tăng nguy cơ nổi điên
+Kết thúc	Nếu giữ bình tĩnh → khách khen, tiệm thành công<br>Nếu nổi điên → khách bỏ đi, thua cuộc
+3. 🎨 Art – Hình ảnh & giao diện
+Thành phần	Mô tả
+Nhân vật	Phượng (sprite đơn giản), bà chủ (2 biểu cảm: bình thường, nổi điên)
+Background	Tiệm may đơn giản, 1 góc máy may, 1 quầy tiếp khách
+UI	Thanh cảm xúc bà chủ, nút lựa chọn lời thoại, nút chơi mini-game
+Công cụ	Photoshop (vẽ nhân vật, UI), Illustrator (logo, biểu tượng)
+4. 🔊 Sound – Âm thanh & nhạc nền
+Thành phần	Mô tả
+Nhạc nền	Nhạc nhẹ buổi sáng, chuyển sang căng thẳng khi bà chủ nổi điên
+Hiệu ứng	Tiếng máy may, tiếng đập bàn, tiếng khách bước vào
+Voice	Lồng tiếng đơn giản hoặc text-to-speech cho bà chủ (2 câu)
+Công cụ	Audacity (chỉnh sửa), LMMS (soạn beat), freesound.org (tìm hiệu ứng)
+5. 👨‍💻 Programming – Lập trình & tích hợp
+Thành phần	Mô tả
+Engine	Godot (nhẹ, dễ học, miễn phí)
+Script	GDScript cho UI, mini-game, phân nhánh lời thoại
+Mini-game	Sửa máy may: bấm đúng nút theo hướng dẫn (reaction game)
+AI đơn giản	Bà chủ có 2 trạng thái: bình thường, nổi điên (state machine)
+UI	Thanh cảm xúc, nút chọn lời thoại, cảnh báo nguy cơ thua
+6. 📋 Project Management – Quản lý tiến độ
+Giai đoạn	Thời gian	Nhiệm vụ
+Tuần 1	Viết GDD, vẽ UI, thiết kế core loop
+Tuần 2	Vẽ nhân vật, background, viết lời thoại
+Tuần 3	Lập trình UI, mini-game, phân nhánh
+Tuần 4	Tích hợp âm thanh, kiểm thử, chỉnh sửa
+Tuần 5	Xuất bản bản demo lên itch.io
+✅ NGUYÊN TẮC TUÂN THỦ
+Yếu tố	Nguyên tắc
+Nội dung	Không có hành vi bạo lực, xúc phạm, gian lận
+Hình ảnh	Rõ ràng, dễ nhận biết cảm xúc, không gây hiểu lầm
+Âm thanh	Phù hợp trạng thái cảm xúc, không gây khó chịu
+Lời thoại	Có cảm xúc, rõ ràng, không quá dài
+Cốt truyện	Có mở đầu – cao trào – kết thúc, dễ hiểu
+🎯 KẾT LUẬN
+Tuyến game này là bước khởi đầu lý tưởng cho bạn:
+
+Đủ chiều sâu để thể hiện ý tưởng cảm xúc – kinh doanh
+
+Đủ đơn giản để hoàn thành trong 4–5 tuần làm một mình
+
+Có thể mở rộng thành nhiều tuyến sau này
