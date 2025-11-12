@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-xay dung phat trien tro choi tycoon cua hang",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

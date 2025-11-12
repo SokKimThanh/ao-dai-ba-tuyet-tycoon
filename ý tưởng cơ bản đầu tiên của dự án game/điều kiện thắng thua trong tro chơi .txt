@@ -1,0 +1,50 @@
+mẹ tôi có một xích mich của cửa hàng đối diện, là đối thủ cạnh tranh, tranh giành khách hàng với nhau, tạo một điều kiện thắng thông thường, điều kiện thua thông thường , điều kiện thắng đặc biệt, điều kiện thua đặc biệt ( thua trong bất kỳ trường hợp nào), thắng đặc biệt sẽ kích hoạt trong điều kiện tự nhiên mà trường hợp này đơn giản lúc nào cũng sẽ bị bỏ qua hoặc phớt lờ trước mắt người chơi mà người chơi k hề nhận ra.
+🧩 Các điều kiện trong trò chơi
+✅ Điều kiện thắng thông thường
+Người chơi (mẹ bạn) thắng khi đạt được một trong các mục tiêu sau:
+
+Doanh thu vượt đối thủ trong 30 ngày liên tiếp.
+
+Số lượng khách hàng trung thành đạt mốc 100 người.
+
+Nhận được đánh giá 5 sao từ ít nhất 50 khách hàng.
+
+❌ Điều kiện thua thông thường
+Người chơi thua khi:
+
+Doanh thu giảm liên tục trong 14 ngày.
+
+Bị mất hơn 50% khách hàng vào tay đối thủ.
+
+Bị kiểm tra và phạt do vi phạm quy định vệ sinh hoặc chất lượng.
+
+🌟 Điều kiện thắng đặc biệt (ẩn)
+Kích hoạt khi người chơi vô tình thực hiện một hành động “tự nhiên” như:
+
+Tặng một món quà nhỏ cho khách hàng mà không ghi nhận trong hệ thống.
+
+Giúp đỡ một khách hàng lớn tuổi hoặc trẻ em mà không mong lợi ích.
+
+Dọn rác trước cửa hàng vào sáng sớm.
+
+➡️ Khi điều kiện này được kích hoạt, hệ thống sẽ bí mật cộng điểm uy tín, và nếu tích lũy đủ, người chơi sẽ tự động thắng mà không biết lý do cụ thể.
+
+⚠️ Những hành động này thường bị “phớt lờ” trong gameplay — không có hiệu ứng tức thì, nhưng lại là chìa khóa chiến thắng.
+
+💀 Điều kiện thua đặc biệt (thua trong mọi trường hợp)
+Người chơi thua ngay lập tức nếu:
+
+Cố tình phá hoại cửa hàng đối thủ.
+
+Gây gổ hoặc xúc phạm khách hàng.
+
+Sử dụng chiêu trò gian lận (ví dụ: bán hàng giả, lừa đảo).
+
+➡️ Dù đang thắng thế, nếu vi phạm một trong các điều này, trò chơi sẽ kết thúc ngay lập tức với kết quả thua.
+
+🎮 Gợi ý gameplay
+Bạn có thể xây dựng trò chơi này như một game mô phỏng quản lý cửa hàng (tycoon).
+
+Các điều kiện đặc biệt nên được giấu kỹ, chỉ hiện ra trong nhật ký hệ thống hoặc sau khi kết thúc game.
+
+Có thể thêm yếu tố “karma” hoặc “uy tín” để phản ánh các hành động tốt/xấu.
