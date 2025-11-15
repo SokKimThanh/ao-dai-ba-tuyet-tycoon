@@ -1,0 +1,46 @@
+💰 Phân tích chi phí tối thiểu theo hạng mục
+1. Phần mềm & công cụ
+Hạng mục	Công cụ đề xuất	Chi phí
+Game Engine	Godot hoặc Unity Personal	Miễn phí
+Thiết kế đồ họa	Photoshop, Illustrator (đã có)	0 VND
+Âm thanh	Audacity, LMMS	Miễn phí
+Quản lý dự án	Trello, HacknPlan	Miễn phí
+Asset miễn phí	Kenney.nl, OpenGameArt.org	Miễn phí
+➡️ Tổng chi phí phần mềm: 0 VND (nếu bạn đã có Photoshop/AI như đã nói)
+
+2. Thiết kế & lập trình
+Hạng mục	Chi phí
+Tự làm toàn bộ (1 người)	0 VND
+Thuê freelancer hỗ trợ (nếu cần)	200k–500k VND/ngày (tùy kỹ năng)
+Ước tính nếu thuê hỗ trợ 10 ngày	~5 triệu VND
+➡️ Tổng chi phí nhân lực: 0–5 triệu VND (tùy bạn có thuê thêm hay không)
+
+3. Phát hành & kiểm thử
+Hạng mục	Chi phí
+Đăng lên itch.io	Miễn phí
+Steam Direct (nếu nâng cấp sau)	~2.4 triệu VND ($100)
+Kiểm thử nội bộ	Miễn phí
+Kiểm thử cộng đồng (nếu thuê)	~500k–1 triệu VND
+➡️ Tổng chi phí phát hành: 0–3.5 triệu VND
+
+4. Chi phí dự phòng & tiện ích
+Hạng mục	Chi phí
+Internet, điện, backup dữ liệu	~500k–1 triệu VND/tháng
+Mua asset cao cấp (nếu cần)	~1–2 triệu VND
+➡️ Tổng chi phí phụ trợ: ~2 triệu VND
+
+📊 Tổng kết chi phí tối thiểu
+Hạng mục	Ước tính chi phí
+Phần mềm & công cụ	0 VND
+Nhân lực (tự làm hoặc thuê thêm)	0–5 triệu VND
+Phát hành & kiểm thử	0–3.5 triệu VND
+Dự phòng & tiện ích	~2 triệu VND
+Tổng cộng	~7–10 triệu VND (tối thiểu)
+✅ Gợi ý tiết kiệm
+Tập trung làm bản demo 10–15 phút như bạn đã lên kế hoạch.
+
+Dùng asset miễn phí, chỉ mua khi thật cần.
+
+Phát hành bản thử nghiệm trên itch.io trước khi lên Steam.
+
+Tận dụng cộng đồng để kiểm thử thay vì thuê tester.

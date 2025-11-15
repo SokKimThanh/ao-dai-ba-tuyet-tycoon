@@ -1,0 +1,35 @@
+🧱 1. Giới hạn về ngân sách → Tác động đến hệ thống nào?
+Hệ thống trong game	Rủi ro chi phí	Cách xử lý thông minh
+Mini-game nhịp điệu (rap battle)	Tốn thời gian làm beat, UI, animation	Dùng template có sẵn, chỉ làm 1 bài mẫu đầu tiên, mở rộng sau
+Hệ thống AI cảm xúc bà chủ	Tốn công lập trình hành vi phức tạp	Dùng FSM (Finite State Machine) đơn giản hóa hành vi theo 3 trạng thái chính
+Hệ thống đối thoại phân nhánh	Viết nhiều đoạn thoại, kiểm soát logic phức tạp	Dùng Yarn Spinner + biểu tượng cảm xúc thay vì voice acting
+Hệ thống gacha nhập hàng	Animation, logic xác suất, UI	Dùng prefab có sẵn, giảm hiệu ứng, chỉ cần 2–3 loại shipper đầu tiên
+🎯 Chiến lược: Ưu tiên làm phần “core loop” trước (quan sát – hỗ trợ – hậu quả), sau đó mở rộng dần. Không cần làm tất cả cùng lúc.
+
+⏳ 2. Giới hạn về thời gian → Tối ưu hóa tiến độ phát triển
+Giai đoạn	Nguy cơ trễ	Gợi ý tối ưu
+Thiết kế nhân vật phụ (Phượng, nhóm thể dục, shipper)	Vẽ nhiều sprite, animation	Dùng sprite đơn giản, chỉ 2 biểu cảm chính, mở rộng sau
+Viết kịch bản hội thoại	Tốn thời gian viết và kiểm tra logic	Viết theo mẫu “phản ứng nhanh” + tag cảm xúc thay vì đoạn dài
+Tích hợp mini-game	Mỗi mini-game cần UI, logic riêng	Làm 1 mini-game mẫu (sửa máy may), các game khác dùng lại khung
+🎯 Chiến lược: Làm theo mô-đun, mỗi tuần hoàn thành 1 hệ thống nhỏ. Ưu tiên phần có ảnh hưởng đến “nổi điên” của bà chủ.
+
+👥 3. Giới hạn về chuyên môn → Phân vai hợp lý
+Thành phần	Yêu cầu kỹ năng	Gợi ý phân công
+Lập trình AI cảm xúc	FSM, trigger, UI cảm xúc	Dùng Godot hoặc Unity FSM plugin, không cần ML
+Thiết kế UI cảm xúc	Biểu tượng, thanh trạng thái	Dùng Figma để mockup, sau đó import vào engine
+Âm thanh – nhạc nền	Beat, hiệu ứng	Dùng beat miễn phí từ freesound.org hoặc LMMS
+🎯 Chiến lược: Tập trung vào kỹ năng bạn mạnh nhất (thiết kế hệ thống, cảm xúc), phần còn lại dùng asset/template miễn phí.
+
+🧠 4. Giới hạn công nghệ → Phản ánh vào gameplay
+Giới hạn engine	Ảnh hưởng	Cách biến thành gameplay
+Không đủ sức render 3D phức tạp	Không thể làm tiệm 3D chi tiết	Dùng góc nhìn 2.5D hoặc top-down, tập trung vào UI cảm xúc
+Không có voice acting	Thiếu cảm xúc thoại	Dùng biểu tượng cảm xúc + hiệu ứng âm thanh thay thế
+Không có hệ thống multiplayer	Không có cộng đồng	Tạo “sự kiện cộng đồng giả lập” (ví dụ: hội chợ, bảng xếp hạng offline)
+🎯 Chiến lược: Biến giới hạn thành phong cách nghệ thuật riêng – “game indie cảm xúc, tối giản nhưng sâu sắc”.
+
+💡 Tổng kết: Biến giới hạn thành lợi thế
+Giới hạn	Cách biến thành lợi thế thiết kế
+Không đủ tiền làm nhiều nhân vật	Tập trung vào 1–2 nhân vật phụ có chiều sâu (Phượng, Diệp)
+Không đủ thời gian làm nhiều ending	Tạo 1 ending đặc biệt ẩn, kích hoạt bằng hành động “tự nhiên”
+Không đủ công nghệ AI phức tạp	Dùng FSM + EmotionMeter để tạo cảm giác AI “sống”
+Không đủ người làm art	Dùng phong cách vẽ tay đơn giản, dễ thương, dễ nhận diện cảm xúc
